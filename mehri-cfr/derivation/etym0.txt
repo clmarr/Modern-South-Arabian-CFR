@@ -1,3 +1,4 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :0:
 #yibakki# >>> #yibakki# ( GOLD : #yəbajk#) :
 y i b a k k i 
+Final form : #yibakki#

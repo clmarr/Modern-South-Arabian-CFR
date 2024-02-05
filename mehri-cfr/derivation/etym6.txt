@@ -1,3 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :6:
-#xamisum# >>> #xamisum# ( GOLD : #xəmoːh#) :
+#xamisum# >>> #xamisu# ( GOLD : #xəmoːh#) :
 x a m i s u m 
+#xamisu# | 0 : m > ∅ / __ #
+Final form : #xamisu#

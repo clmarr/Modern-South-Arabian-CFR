@@ -1,3 +1,4 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :9:
 #basala# >>> #basala# ( GOLD : #bəheːl#) :
 b a s a l a 
+Final form : #basala#

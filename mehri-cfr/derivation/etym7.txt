@@ -1,3 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :7:
-#sabʕum# >>> #sabʕum# ( GOLD : #hoːba#) :
+#sabʕum# >>> #sabʕu# ( GOLD : #hoːba#) :
 s a b ʕ u m 
+#sabʕu# | 0 : m > ∅ / __ #
+Final form : #sabʕu#

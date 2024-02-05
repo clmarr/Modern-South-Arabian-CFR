@@ -1,3 +1,4 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :5:
 #yimallik# >>> #yimallik# ( GOLD : #yəmuːlək#) :
 y i m a l l i k 
+Final form : #yimallik#

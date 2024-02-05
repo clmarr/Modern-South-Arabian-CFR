@@ -1,3 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :13:
-#yawmum# >>> #yawmum# ( GOLD : #yuːm#) :
+#yawmum# >>> #yawmu# ( GOLD : #yuːm#) :
 y a w m u m 
+#yawmu# | 0 : m > ∅ / __ #
+Final form : #yawmu#

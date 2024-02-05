@@ -1,0 +1,3 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :3:
+#bajtum# >>> #bajtum# ( GOLD : #abajt#) :
+b a j t u m 

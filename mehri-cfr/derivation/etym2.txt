@@ -1,0 +1,3 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :2:
+#qabara# >>> #qabara# ( GOLD : #qəbuːr#) :
+q a b a r a 

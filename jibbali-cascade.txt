@@ -1,4 +1,4 @@
-$Proto-West-Semitic to Mehri cascade, for problem set 4 in NELC 5111 (originally)
+$Proto-West-Semitic to Jibbali cascade, for problem set 4 in NELC 5111 (originally)
 
 $final -m effaced. Shared with NW-Sem? 
 m > ∅ / __ #
@@ -22,9 +22,13 @@ $ going with the former for now as it does not require making another rule, and 
 $ Proto-MSA *α, treated as a̯ here, becomes a. Must be after unstressed vowel reductions (and vowel reorientations?) resolve.
 a̯ > a 
 
+
+
 =Proto-Mehri-Jibbali
+$ end of shared developments between Mehri and Jibbali 
 
 
+$vowel-nasal coalescence somewhere around here. 
 
 
 $at end: delete stress, which is not marked in the output values

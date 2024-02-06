@@ -19,10 +19,17 @@ $ doesn't happen to diphthongs, i.e. nucleus plus glide
 $ it appears this even happens in closed syllables (yimallik > Mehr. yəmūlək) $ but it doesn't occur for yibakkī (M yəbayk, J yōk) -- could be because this became a diphthohng, or because it is blocked by voiceless stops(?)
 $ going with the former for now as it does not require making another rule, and does make predictions about relative chronology.  
 
+$TODO that! 
+
+$ Unstressed vowels reduced to schwa 
+[+syl,-stres] > ə 
+
 $ Proto-MSA *α, treated as a̯ here, becomes a. Must be after unstressed vowel reductions (and vowel reorientations?) resolve.
 a̯ > a 
 
 =Proto-Mehri-Jibbali
+$ end of shared developments between Mehri and Jibbali 
+
 
 
 

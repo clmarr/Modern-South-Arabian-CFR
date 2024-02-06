@@ -1,4 +1,8 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :9:
-#basala# >>> #basala# ( GOLD : #bəheːl#) :
+#basala# >>> #bəsalə# ( GOLD : #bəheːl#) :
 b a s a l a 
-Final form : #basala#
+#basˈala# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#bəsˈalə# | 3 : [+syl,-stres] > ə 
+Proto-Mehri-Jibbali stage form : #bəsˈalə#
+#bəsalə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bəsalə#

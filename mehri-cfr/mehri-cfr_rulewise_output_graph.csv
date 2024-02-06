@@ -1,2 +1,8 @@
-INPUT,/yibakki/,/labanum/,/qabara/,/bajtum/,/ʕumaːnu/,/yimallik/,/xamisum/,/sabʕum/,/samiʕa/,/basala/,/ɬuːrum/,/sawqaʕa/,/ʔarbaʕtu/,/yawmum/,/mina/
-R0,,/labanu/,,/bajtu/,,,/xamisu/,/sabʕu/,,,/ɬuːru/,,,/yawmu/,
+INPUT,/jibakki/,/labanum/,/qabara/,/a̯bajtum/,/ʕumaːnu/,/jimallik/,/xamisum/,/sabʕum/,/samiʕa/,/basala/,/ɬuːrum/,/sawqaʕa/,/ʔarbaʕtu/,/jawmum/,/mina/
+R0,,/labanu/,,/a̯bajtu/,,,/xamisu/,/sabʕu/,,,/ɬuːru/,,,/jawmu/,
+R1,/jibˈakki/,/labˈanu/,/qabˈara/,/a̯bˈajtu/,/ʕumˈaːnu/,/jimˈallik/,/xamˈisu/,/sˈabʕu/,/samˈiʕa/,/basˈala/,/ɬˈuːru/,/sawqˈaʕa/,/ʔarbˈaʕtu/,/jˈawmu/,/mˈina/
+R2,,,,,,,,,,,,,,,/mina/
+R3,/jəbˈakkə/,/ləbˈanə/,/qəbˈarə/,/a̯bˈajtə/,/ʕəmˈaːnə/,/jəmˈallək/,/xəmˈisə/,/sˈabʕə/,/səmˈiʕə/,/bəsˈalə/,/ɬˈuːrə/,/səwqˈaʕə/,/ʔərbˈaʕtə/,/jˈawmə/,/mənə/
+R4,,,,/abˈajtə/,,,,,,,,,,,
+=Proto-Mehri-Jibbali,null/jəbˈakkə/,null/ləbˈanə/,null/qəbˈarə/,null/abˈajtə/,null/ʕəmˈaːnə/,null/jəmˈallək/,null/xəmˈisə/,null/sˈabʕə/,null/səmˈiʕə/,null/bəsˈalə/,null/ɬˈuːrə/,null/səwqˈaʕə/,null/ʔərbˈaʕtə/,null/jˈawmə/,null/mənə/
+R5,/jəbakkə/,/ləbanə/,/qəbarə/,/abajtə/,/ʕəmaːnə/,/jəmallək/,/xəmisə/,/sabʕə/,/səmiʕə/,/bəsalə/,/ɬuːrə/,/səwqaʕə/,/ʔərbaʕtə/,/jawmə/,

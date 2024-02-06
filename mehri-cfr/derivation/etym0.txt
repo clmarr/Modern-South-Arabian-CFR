@@ -1,4 +1,8 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :0:
-#yibakki# >>> #yibakki# ( GOLD : #yəbajk#) :
-y i b a k k i 
-Final form : #yibakki#
+#jibakki# >>> #jəbakkə# ( GOLD : #jəbajk#) :
+j i b a k k i 
+#jibˈakki# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#jəbˈakkə# | 3 : [+syl,-stres] > ə 
+Proto-Mehri-Jibbali stage form : #jəbˈakkə#
+#jəbakkə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #jəbakkə#

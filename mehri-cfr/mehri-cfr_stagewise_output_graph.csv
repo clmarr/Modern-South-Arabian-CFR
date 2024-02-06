@@ -1,16 +1,16 @@
-etID  | Input | Output {GOLD}
-0      | #yibakki# | #yibakki# {GOLD: #yəbajk#}
-1      | #labanum# | #labanu# {GOLD: #əlboːn#}
-2      | #qabara# | #qabara# {GOLD: #qəbuːr#}
-3      | #bajtum# | #bajtu# {GOLD: #abajt#}
-4      | #ʕumaːnu# | #ʕumaːnu# {GOLD: #aːmoːn#}
-5      | #yimallik# | #yimallik# {GOLD: #yəmuːlək#}
-6      | #xamisum# | #xamisu# {GOLD: #xəmoːh#}
-7      | #sabʕum# | #sabʕu# {GOLD: #hoːba#}
-8      | #samiʕa# | #samiʕa# {GOLD: #hiːma#}
-9      | #basala# | #basala# {GOLD: #bəheːl#}
-10     | #ɬuːrum# | #ɬuːru# {GOLD: #ɬawr#}
-11     | #sawqaʕa# | #sawqaʕa# {GOLD: #həwqaː#}
-12     | #ʔarbaʕtu# | #ʔarbaʕtu# {GOLD: #ərboːt#}
-13     | #yawmum# | #yawmu# {GOLD: #yuːm#}
-14     | #mina# | #mina# {GOLD: #mən#}
+etID  | Input | Proto-Mehri-Jibbali | Output {GOLD}
+0      | #jibakki# | #jəbˈakkə# | #jəbakkə# {GOLD: #jəbajk#}
+1      | #labanum# | #ləbˈanə# | #ləbanə# {GOLD: #əlboːn#}
+2      | #qabara# | #qəbˈarə# | #qəbarə# {GOLD: #qəbuːr#}
+3      | #a̯bajtum# | #abˈajtə# | #abajtə# {GOLD: #abajt#}
+4      | #ʕumaːnu# | #ʕəmˈaːnə# | #ʕəmaːnə# {GOLD: #aːmoːn#}
+5      | #jimallik# | #jəmˈallək# | #jəmallək# {GOLD: #jəmuːlək#}
+6      | #xamisum# | #xəmˈisə# | #xəmisə# {GOLD: #xəmoːh#}
+7      | #sabʕum# | #sˈabʕə# | #sabʕə# {GOLD: #hoːba#}
+8      | #samiʕa# | #səmˈiʕə# | #səmiʕə# {GOLD: #hiːma#}
+9      | #basala# | #bəsˈalə# | #bəsalə# {GOLD: #bəheːl#}
+10     | #ɬuːrum# | #ɬˈuːrə# | #ɬuːrə# {GOLD: #ɬawr#}
+11     | #sawqaʕa# | #səwqˈaʕə# | #səwqaʕə# {GOLD: #həwqaː#}
+12     | #ʔarbaʕtu# | #ʔərbˈaʕtə# | #ʔərbaʕtə# {GOLD: #ərboːt#}
+13     | #jawmum# | #jˈawmə# | #jawmə# {GOLD: #juːm#}
+14     | #mina# | #mənə# | #mənə# {GOLD: #mən#}

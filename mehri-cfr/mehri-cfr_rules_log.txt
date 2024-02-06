@@ -1,1 +1,6 @@
 m > ∅ / __ #
+[+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+ˈi > i / m __ n [+lo]
+[+syl,-stres] > ə 
+a̯ > a 
+[+syl] > [-stres,-prim,+syl,+son,0delrel] 

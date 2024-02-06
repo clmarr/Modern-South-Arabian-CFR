@@ -1,5 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :1:
-#labanum# >>> #labanu# ( GOLD : #əlboːn#) :
+#labanum# >>> #ləbanə# ( GOLD : #əlboːn#) :
 l a b a n u m 
 #labanu# | 0 : m > ∅ / __ #
-Final form : #labanu#
+#labˈanu# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#ləbˈanə# | 3 : [+syl,-stres] > ə 
+Proto-Mehri-Jibbali stage form : #ləbˈanə#
+#ləbanə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ləbanə#

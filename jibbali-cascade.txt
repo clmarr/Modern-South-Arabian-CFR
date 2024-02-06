@@ -3,6 +3,9 @@ $Proto-West-Semitic to Jibbali cascade, for problem set 4 in NELC 5111 (original
 $final -m effaced. Shared with NW-Sem? 
 m > ∅ / __ #
 
+$ʔ effaced. Shared with other branches? 
+ʔ > ∅ 
+
 $stress seems to be imposed on the penultimate. 
 [+syl] > [+prim] / __ ([-syl])* [+syl] ([-syl])* #
 

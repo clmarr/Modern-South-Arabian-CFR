@@ -1,10 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :8:
-#samiʕa# >>> #səmiaː̈# ( GOLD : #hiːma#) :
+#samiʕa# >>> #səmi# ( GOLD : #hiːma#) :
 s a m i ʕ a 
-#samˈiʕa# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#səmˈiʕə# | 3 : [+syl,-stres] > ə 
-Proto-Mehri-Jibbali stage form : #səmˈiʕə#
-#səmˈiʕaː̈# | 5 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
-#səmˈiaː̈# | 6 : ʕ > ∅ 
-#səmiaː̈# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #səmiaː̈#
+#samˈiʕa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#səmˈiʕə# | 4 : [+syl,-stres] > ə 
+#səmˈiʕ# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #səmˈiʕ#
+#səmˈi# | 8 : ʕ > ∅ 
+#səmi# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #səmi#

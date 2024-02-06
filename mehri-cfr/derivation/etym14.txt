@@ -1,8 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :14:
-#mina# >>> #mənə# ( GOLD : #mən#) :
+#mina# >>> #mən# ( GOLD : #mən#) :
 m i n a 
-#mˈina# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#mina# | 2 : ˈi > i / m __ n [+lo]
-#mənə# | 3 : [+syl,-stres] > ə 
-Proto-Mehri-Jibbali stage form : #mənə#
-Final form : #mənə#
+#mˈina# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#mina# | 3 : ˈi > i / m __ n [+lo]
+#mənə# | 4 : [+syl,-stres] > ə 
+#mən# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #mən#
+Final form : #mən#

@@ -3,6 +3,9 @@ $Proto-West-Semitic to Mehri cascade, for problem set 4 in NELC 5111 (originally
 $final -m effaced. Shared with NW-Sem? 
 m > ∅ / __ #
 
+$ʔ effaced. Shared with other branches? 
+ʔ > ∅ 
+
 $stress seems to be imposed on the penultimate. 
 [+syl] > [+prim] / __ ([-syl])* [+syl] ([-syl])* #
 
@@ -23,6 +26,9 @@ $TODO that!
 
 $ Unstressed vowels reduced to schwa 
 [+syl,-stres] > ə 
+
+$final schwa effaced 
+ə > ∅ / __ #
 
 $ Proto-MSA *α, treated as a̯ here, becomes a. Must be after unstressed vowel reductions (and vowel reorientations?) resolve.
 a̯ > a 

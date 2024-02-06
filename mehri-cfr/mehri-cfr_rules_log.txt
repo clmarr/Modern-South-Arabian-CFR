@@ -1,7 +1,9 @@
 m > ∅ / __ #
+ʔ > ∅ 
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 ˈi > i / m __ n [+lo]
 [+syl,-stres] > ə 
+ə > ∅ / __ #
 a̯ > a 
 [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
 ʕ > ∅ 

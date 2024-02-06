@@ -1,10 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :11:
-#sawqaʕa# >>> #səwqaaː̈# ( GOLD : #həwqaː#) :
+#sawqaʕa# >>> #səwqa# ( GOLD : #həwqaː#) :
 s a w q a ʕ a 
-#sawqˈaʕa# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#səwqˈaʕə# | 3 : [+syl,-stres] > ə 
-Proto-Mehri-Jibbali stage form : #səwqˈaʕə#
-#səwqˈaʕaː̈# | 5 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
-#səwqˈaaː̈# | 6 : ʕ > ∅ 
-#səwqaaː̈# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #səwqaaː̈#
+#sawqˈaʕa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#səwqˈaʕə# | 4 : [+syl,-stres] > ə 
+#səwqˈaʕ# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #səwqˈaʕ#
+#səwqˈa# | 8 : ʕ > ∅ 
+#səwqa# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #səwqa#

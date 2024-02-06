@@ -6,5 +6,5 @@ a̯ b a j t u m
 #a̯bˈajtə# | 3 : [+syl,-stres] > ə 
 #abˈajtə# | 4 : a̯ > a 
 Proto-Mehri-Jibbali stage form : #abˈajtə#
-#abajtə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#abajtə# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #abajtə#

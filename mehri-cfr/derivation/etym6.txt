@@ -5,5 +5,5 @@ x a m i s u m
 #xamˈisu# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 #xəmˈisə# | 3 : [+syl,-stres] > ə 
 Proto-Mehri-Jibbali stage form : #xəmˈisə#
-#xəmisə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#xəmisə# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #xəmisə#

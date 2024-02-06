@@ -3,4 +3,6 @@ m > ∅ / __ #
 ˈi > i / m __ n [+lo]
 [+syl,-stres] > ə 
 a̯ > a 
+[+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
+ʕ > ∅ 
 [+syl] > [-stres,-prim,+syl,+son,0delrel] 

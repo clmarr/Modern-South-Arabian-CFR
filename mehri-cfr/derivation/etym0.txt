@@ -4,5 +4,5 @@ j i b a k k i
 #jibˈakki# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 #jəbˈakkə# | 3 : [+syl,-stres] > ə 
 Proto-Mehri-Jibbali stage form : #jəbˈakkə#
-#jəbakkə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#jəbakkə# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #jəbakkə#

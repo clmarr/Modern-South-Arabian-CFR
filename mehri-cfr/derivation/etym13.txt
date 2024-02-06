@@ -5,5 +5,5 @@ j a w m u m
 #jˈawmu# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 #jˈawmə# | 3 : [+syl,-stres] > ə 
 Proto-Mehri-Jibbali stage form : #jˈawmə#
-#jawmə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#jawmə# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #jawmə#

@@ -4,5 +4,5 @@ q a b a r a
 #qabˈara# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 #qəbˈarə# | 3 : [+syl,-stres] > ə 
 Proto-Mehri-Jibbali stage form : #qəbˈarə#
-#qəbarə# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#qəbarə# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #qəbarə#

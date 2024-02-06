@@ -30,8 +30,9 @@ a̯ > a
 =Proto-Mehri-Jibbali
 $ end of shared developments between Mehri and Jibbali 
 
-
-
+$ ʕ changes any following vowel to aː, then disappears
+[+syl] > [-hi,-round,+lo,+tense,+long] / ʕ __ 
+ʕ > ∅
 
 
 $at end: delete stress, which is not marked in the output values

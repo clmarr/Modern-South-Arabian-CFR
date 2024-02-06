@@ -4,5 +4,5 @@ j i m a l l i k
 #jimˈallik# | 1 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 #jəmˈallək# | 3 : [+syl,-stres] > ə 
 Proto-Mehri-Jibbali stage form : #jəmˈallək#
-#jəmallək# | 5 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#jəmallək# | 7 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #jəmallək#

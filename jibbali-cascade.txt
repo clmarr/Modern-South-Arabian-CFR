@@ -36,6 +36,12 @@ a̯ > a
 $ end of shared developments between Mehri and Jibbali 
 
 
+$ ə > ɛ before sonorants (r, w -- attested)
+ə > ɛ / __ [+son]
+
+$ w > secondary b
+w > b
+
 $vowel-nasal coalescence somewhere around here. 
 
 

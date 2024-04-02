@@ -12,14 +12,15 @@ $stress seems to be imposed on the penultimate.
 $hardcode to remove stress from mina -- a function word
 ˈi > i / m __ n [+lo]
 
-$secondary diphthong formation: sometime before apocope, final consonants, or high ones at least, form diphthohngs with in stressed syllables
+$secondary diphthong formation: sometime before apocope, final consonants, or high ones at least, form diphthongs within stressed syllables
 	$ yibakkī > Mehri yəbayk
 $doesn't affect syllables that already have a glide? baytum > abayt
 		$ or is this why we get the a? 
 
 $ stressed short vowels are lengthened
 $ doesn't happen to diphthongs, i.e. nucleus plus glide
-$ it appears this even happens in closed syllables (yimallik > Mehr. yəmūlək) $ but it doesn't occur for yibakkī (M yəbayk, J yōk) -- could be because this became a diphthohng, or because it is blocked by voiceless stops(?)
+$ it appears this even happens in closed syllables (yimallik > Mehr. yəmūlək) 
+$ but it doesn't occur for yibakkī (M yəbayk, J yōk) -- could be because this became a diphthong, or because it is blocked by voiceless stops(?)
 $ going with the former for now as it does not require making another rule, and does make predictions about relative chronology.  
 
 $TODO that! 

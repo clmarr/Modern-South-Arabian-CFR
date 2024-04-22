@@ -1,0 +1,39 @@
+$ this file will have to involve the interpolation of Proto-West-Semitic source forms on the basis of the available comparanda, preferably not involving Mehri (to avoid circularity)
+
+Symbols needing explanation for Mehri
+
+Vowels
+ī -- assumed iː
+ē -- assumed to be eː 
+ā -- assumed aː
+ō -- assumed oː
+ū -- assumed uː
+ay = aj
+aw = aw
+"ê" -- ɛː ? 
+"â" -- ãː ? -- g̍â "brother"
+"ô" -- õː? ɔː? 
+
+haven't seen ə yet
+
+phoneme inventory info (e.g. Rubin 2019 and wiki) indicate there are these but no unambiguous symbol yet
+	ə 
+	ɛː 
+
+single e-- may actually be ɛ
+	
+
+Consonants
+q = kˀ
+ś = ɬ
+d̩ = tɬˀ ~ ɬˀ  (may be lz̪ˤ .. or tls) 
+s̩ = tsˀ -- sˀ
+š = ʃ 
+h̬ = x ~ χ
+g̍ = ɣ ~ ʁ
+h̩ = ħ
+  ʕ 
+  ʔ
+ǧ = dʒ -- tʃˀ -- only in Arabic loans apparently
+	
+d̩

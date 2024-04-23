@@ -1,3 +1,5 @@
+Bom14 = Bomhard, Allen R. 2014. Afrasian Comparative Phonology and Vocabulary. Charleston, SC, USA (self-published). 
 Les87 = Leslau, Wolf. 1987. Comparative Dictionary of Ge'ez (Classical Ethiopic. Otto Harrassowitz
-Kog11 = Kogan, Leonid. 2011. Proto-Semitic Lexicon. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
+KogA11 = Kogan, Leonid. 2011. Proto-Semitic Phonetics and Phonology. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
+KogB11 = Kogan, Leonid. 2011. Proto-Semitic Lexicon. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
 Rub19 = Rubin, Aaron D. 2019. "Mehri". In Huehnergard, J. and Pat-El, N. (eds.), The Semitic Languages (2nd edn). Routledge.

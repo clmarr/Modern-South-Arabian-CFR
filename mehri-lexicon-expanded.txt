@@ -1,35 +1,76 @@
 $Proto-West Semitic,Mehri
 a̯ b a j t u m , a b a j t $house. OG set from AaJ.
 
-ʔ a r b a ʕ t u , ə r b oː t $four. OG set from AaJ.
+ʔ a r b a ʕ u m , a r b a $four (fem). Apparently from the masculine? Rub19: 266.
+ʔ a r b a ʕ t u m , ə r b oː t $four (masc). Apparently from the feminine. OG set from AaJ. +Rub19: 266.
+ʔ u b h aː n u m , h aː b ˈeː n $thumb. KogA11: 59. Initial vowel quality uncertain.
 
+ħ a m θ u m , ħ a m θ $lower belly. Les87, KogA11: 58. Stem vowel unknown. 
+
+ʕ a t͡θˀ m a t u m , ʔ aː d͡ðˀ ə m eː t $back (<bone). KogA11: 58. 
+ʕ aː d a , ʔ aː d $still, further, also. Value of final vowel unclear. Manually reconstructed based on Les87 -- Geez ʕadi, Arb ʕaːda, Hebr/Aram ʕoːð.
+ʕ a ɬ a r u m , oː ɬ ə r $ten (feminine)... apparently from masculine?ǃ KogA11ː 57; Rub19ː 266.
+ʕ a ɬ a r a t u m , aː ɬ ə r iː t $ten (masculine)... apparently from feminine?ǃ Rub19ː 266. 
 ʕ u m aː n u , aː m oː n $'Uman. OG set from AaJ.
 
 q a b a r a , q ə b uː r $he has buried. OG set from AaJ.
 
-x a m i s u m , x ə m oː h $five. OG set from AaJ.
+χ a m ˈi s u m , χ ə m oː h $five (masc). OG set from AaJ. +Rub19: 266.
+χ ˈa m i s u m , χ ˈa j m ə h $five (fem). KogA11: 106. Hypothesis stress as gender difference.
+
+ʁ u r a j b u m , ʁ ə r ˈa j b $crow, raven. Bom14ː 58, but with form agrees with that used on wiktionary (Bomhard has ʁar-ib and ʁur-a(ː)b as alternate forms...). Other forms per KogA11:58 checked below.
+ʁ aː r i b u m , ʁ ə r ˈa j b $crow, raven. See above.
+ʁ u r aː b u m , ʁ ə r ˈa j b $crow, raven. See above.
+ʁ u r a b u m , ʁ ə r ˈa j b $crow, raven. See above.
+
+w a r χ u m , w a r χ $moon, month. Les87. KogA11: 58. 
+
+k a r i ɬ u m , k iː r ə ɬ $stomach. KogA11: 57. 
 
 j a w m u m , j uː m $day. OG set from AaJ.
 j i b a k k i , j ə b a j k $he weeps. OG set from AaJ.
 j i m a l l i k , j ə m uː l ə k $he owns. OG set from AaJ.
 
-s a b ʕ u m , h oː b a $seven. OG set from AaJ.
+s a b ʕ u m , h oː b a $seven (fem). Apparently from masc?ǃ OG set from AaJ. + Rub19: 266.
+s a b ʕ a t u m , j ə b ˈa j t $seven (masc). Apparently from fem?!  Rub19: 266.
 s a m i ʕ a , h iː m a $he has heard. OG set from AaJ.
 s a w q a ʕ a , h ə w q aː $he has placed . OG set from AaJ.
+s i d θ u m , h ə tː $six (fem). Apparently from masc. KogA11: 106. Mehri form from Rub19: 266. 
+s i d θ ˈa t u m , j ə t ˈiː t $six (masc). From feminine?? Rub19: 266.
+s i m u m , h a m $name. Rub19:266. 
 
+t a j s u m , t a j h $buck. KogA11ː 106. 
+
+ɬ a j b u m , ɬ a j b $grey hair. KogA11: 57. 
+ɬ a l aː θ a t u m , ɬ aː θ ˈa j t $three (masculine)... apparently from the feminine (per wiktionary...). Rub19: 266.
 ɬ uː r u m , ɬ a w r $advice. OG set from AaJ.
 
 l a b a n u m , ə l b oː n $white. OG set from AaJ.
 
-t͡θˀ i p r , d͡ðˀ f eː r $nail. KogA11: 56. Akk. ṣupru, Hbr. ṣippōrän, Syr. ṭeprā, Arb. ḏ̣ifr-, Gez. ṣəfr, Amh. ṭəfər, Mhr. ḏ̣fēr, Soq. ṭífer (SED I No. 285);
+n a χ iː r u m , n ə χ r iː r $nose (< nostril). Les87 as naχrīr "nose". KogA11ː 58. 
+n a s r u m , n o: h ə r $eagle. KogA11: 106. 
+$KogA11: 56 -- *ṇṯr ‘to look, to watch’ > Akk. naṣāru, Ugr. nγr, Hbr. nṣr, Syr. nṭr, Arb. nḏ̣r, Sab. ṇṯr, Gez. naṣṣara, Mhr. nəḏ̣áwr (AHw. 755, DUL 624, HALOT 718, LSyr. 426, Lane 2810, SD 102, CDG 406, ML 283)
+
+t i s ʕ a t u m , s ə ʕ a j t $nine (masc). From fem? Rub19:266. Alt form below.
+t i s ʕ a t u m , s a j t $see above. 
+t i s ʕ u m , s ɛː $nine (fem.). From masc? KogA11: 59. 
+
+
+t͡θˀ i p r u m , d͡ðˀ f eː r $nail. KogA11: 56. Akk. ṣupru, Hbr. ṣippōrän, Syr. ṭeprā, Arb. ḏ̣ifr-, Gez. ṣəfr, Amh. ṭəfər, Mhr. ḏ̣fēr, Soq. ṭífer (SED I No. 285);
 $KogA11: 56 -- $ṇṯr ‘to look, to watch’ > Akk. naṣāru, Ugr. nγr, Hbr. nṣr, Syr. nṭr, Arb. nḏ̣r, Sab.ṇṯr, Gez. naṣṣara, Mhr. nəḏ̣áwr (AHw. 755, DUL 624, HALOT 718, LSyr. 426, Lane 2810, SD 102, CDG 406, ML 283).
+
+θ i n a t u m , θ r a j t $two (feminine). Rub19: 266. Omani.
+θ i n a j u m , θ r oː h $two (masculine). Mehri form per Rub19: 266. PSem form tentatively per Bom14: 230. Consider instead... tinum? Or, the hypothesis of the below form (from wiktionary, but uncited).
+θ i n a t aː n i , θ r oː h $two (masculine). See above.)
 
 ð a k a r a , ð eː k ə r $remember (3SG)? KogA11: 56. Akk. zakāru, Hbr. zkr, Syr. dkr, Arb. ḏkr, Sab. ḏkr, Gez. zakara, Mhr. ḏēkər, Soq. dekir (AHw. 1503, HALOT 269, LSyr. 153, Lane 968, SD 38, CDG 636, ML 80, LS 127);
 $KogA11ː 56 -- *ḏVb(V)b- ‘fly’ > Akk. zubbu, Hbr. zəbūb, Syr. debbābā, Arb. ḏubāb-, Amh. zəmb, Mhr. ḏəbbēt, Soq. edbíboh (SED II No. 73)
 
 p a r θ , f a r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
 
+b a ʕ l u m , b aː l $owner. Bom14: 35. 
 b a s a l a , b ə h eː l $he has cooked. OG set from AaJ.
+b a r a q u m , b oː r ə q $lightning. KogB11: 194. 
 
 
 m i n a , m ə n $from. OG set from AaJ.

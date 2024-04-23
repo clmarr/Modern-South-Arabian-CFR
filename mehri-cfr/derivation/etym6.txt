@@ -3,10 +3,10 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 ʔ a r b a ʕ u m 
 #ʔarbaʕu# | 0 : m > ∅ / __ #
 #arbaʕu# | 1 : ʔ > ∅ 
-#arbˈaʕu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#ərbˈaʕə# | 4 : [+syl,-stres] > ə 
-#ərbˈaʕ# | 5 : ə > ∅ / __ #
+#arbˈaʕu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#ərbˈaʕə# | 5 : [+syl,-stres] > ə 
+#ərbˈaʕ# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #ərbˈaʕ#
-#ərbˈa# | 8 : ʕ > ∅ 
-#ərba# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#ərbˈa# | 9 : ʕ > ∅ 
+#ərba# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ərba#

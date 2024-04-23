@@ -1,10 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :103:
-#parasum# >>> #pəras# ( GOLD : #ferh#) :
-p a r a s u m 
-#parasu# | 0 : m > ∅ / __ #
-#parˈasu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#pərˈasə# | 4 : [+syl,-stres] > ə 
-#pərˈas# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #pərˈas#
-#pəras# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #pəras#
+#patana# >>> #fətan# ( GOLD : #fətoːn#) :
+p a t a n a 
+#fatana# | 2 : p > f 
+#fatˈana# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#fətˈanə# | 5 : [+syl,-stres] > ə 
+#fətˈan# | 6 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #fətˈan#
+#fətan# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #fətan#

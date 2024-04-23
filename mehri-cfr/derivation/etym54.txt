@@ -1,10 +1,12 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :54:
-#samiʕa# >>> #səmi# ( GOLD : #hiːma#) :
-s a m i ʕ a 
-#samˈiʕa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#səmˈiʕə# | 4 : [+syl,-stres] > ə 
-#səmˈiʕ# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #səmˈiʕ#
-#səmˈi# | 8 : ʕ > ∅ 
-#səmi# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #səmi#
+#sabʕatum# >>> #səbaːt# ( GOLD : #jəbˈajt#) :
+s a b ʕ a t u m 
+#sabʕatu# | 0 : m > ∅ / __ #
+#sabʕˈatu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#səbʕˈatə# | 5 : [+syl,-stres] > ə 
+#səbʕˈat# | 6 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #səbʕˈat#
+#səbʕˈaːt# | 8 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
+#səbˈaːt# | 9 : ʕ > ∅ 
+#səbaːt# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #səbaːt#

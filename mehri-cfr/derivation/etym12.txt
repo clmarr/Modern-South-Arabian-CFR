@@ -3,9 +3,9 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 ʔ a b w u m 
 #ʔabwu# | 0 : m > ∅ / __ #
 #abwu# | 1 : ʔ > ∅ 
-#ˈabwu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#ˈabwə# | 4 : [+syl,-stres] > ə 
-#ˈabw# | 5 : ə > ∅ / __ #
+#ˈabwu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#ˈabwə# | 5 : [+syl,-stres] > ə 
+#ˈabw# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #ˈabw#
-#abw# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#abw# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #abw#

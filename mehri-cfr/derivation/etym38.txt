@@ -2,9 +2,9 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 #warχum# >>> #warχ# ( GOLD : #warχ#) :
 w a r χ u m 
 #warχu# | 0 : m > ∅ / __ #
-#wˈarχu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#wˈarχə# | 4 : [+syl,-stres] > ə 
-#wˈarχ# | 5 : ə > ∅ / __ #
+#wˈarχu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#wˈarχə# | 5 : [+syl,-stres] > ə 
+#wˈarχ# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #wˈarχ#
-#warχ# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#warχ# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #warχ#

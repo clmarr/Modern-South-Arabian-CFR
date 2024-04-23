@@ -2,9 +2,9 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 #jawmum# >>> #jawm# ( GOLD : #juːm#) :
 j a w m u m 
 #jawmu# | 0 : m > ∅ / __ #
-#jˈawmu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#jˈawmə# | 4 : [+syl,-stres] > ə 
-#jˈawm# | 5 : ə > ∅ / __ #
+#jˈawmu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#jˈawmə# | 5 : [+syl,-stres] > ə 
+#jˈawm# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #jˈawm#
-#jawm# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#jawm# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #jawm#

@@ -2,9 +2,9 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 #ʁurajbum# >>> #ʁərajb# ( GOLD : #ʁərˈajb#) :
 ʁ u r a j b u m 
 #ʁurajbu# | 0 : m > ∅ / __ #
-#ʁurˈajbu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#ʁərˈajbə# | 4 : [+syl,-stres] > ə 
-#ʁərˈajb# | 5 : ə > ∅ / __ #
+#ʁurˈajbu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#ʁərˈajbə# | 5 : [+syl,-stres] > ə 
+#ʁərˈajb# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #ʁərˈajb#
-#ʁərajb# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#ʁərajb# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #ʁərajb#

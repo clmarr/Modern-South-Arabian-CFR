@@ -62,6 +62,7 @@ j a w m u m , j uː m $day. OG set from AaJ.
 j i b a k k i , j ə b a j k $he weeps. OG set from AaJ.
 j i m a l l i k , j ə m uː l ə k $he owns. OG set from AaJ.
 
+s a l a p a , s ə l oː b $draw, pull out. KogA11: 81. Loan? 
 s a p i l a , h oː f ə l $be low. KogA11: 105. Jib. šɔ́fəl, Soq. šáfəl.
 s a b a tˀ a , s ə b oː tˀ $hit. Les87. 
 s a b ʕ u m , h oː b a $seven (fem). Apparently from masc?ǃ OG set from AaJ. + Rub19: 266.
@@ -94,7 +95,7 @@ t͡sˀ u r i ħ a , t͡sˀ oː r e ħ $crow.
 ɬˀ a b a tˀ u m , ɬˀ a j b ə t $grasp. Les87? TODO check source.
 
 ɬ a h r u m , ɬ eː h ə r $crescent moon. KogB11: 193.
-ɬ a j b u m , ɬ a j b $grey hair. KogA11: 57. 
+ɬ a j b u m , ɬ a j b $grey hair. KogA11: 57; KogB11: 230. Jib ɬub. 
 ɬ a l aː θ a t u m , ɬ aː θ ˈa j t $three (masculine)... apparently from the feminine (per wiktionary...). Rub19: 266.
 ɬ a l aː θ u m , ɬ h ə l iː θ $three (feminine) ... from masculine?! Rub19: 266. 
 ɬ a r a q u m , ɬ ə r oː q $comb. Les87. 
@@ -132,14 +133,14 @@ $KogA11ː 56 -- *ḏVb(V)b- ‘fly’ > Akk. zubbu, Hbr. zəbūb, Syr. debbābā
 p a ħ a s a , f ħ aː s $twist. Les87
 p a ħ a l u m , f a ħ l $penis. Les87.
 p a t a n a , f ə t oː n $test, tempt. Les87.
-p a r a s u m , f e r h $horse. Now suffixed in -īn. Les87. Or (KogB11ː 184) fərháyn. 
+p a r a s iː n a , f ə r h a j n $horse. Now suffixed in -īn per Les87. Or (KogB11ː 184) fərháyn. Assume this is from plural.
 p a r θ , f a r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
 p a l a ɡ u m , f ə l eː ɡ $stream, watercourse. Bom14: 56. Les87 as felēg. Arb. faladʒ, Hebr pɛlɛg, Geez fələg, Akk palg-u. 
 
 b a ʕ l u m , b aː l $owner. Bom14: 35. 
 b a ʕ l a t u m , b aː l iː t $mistress. Wiktionary... TODO check. 
 b a s a l a , b ə h eː l $he has cooked. OG set from AaJ.
-b a r a q u m , b oː r ə q $lightning. KogB11: 194. Jib bɛrq. 
+b a r a q u m , b oː r ə q $lightning. KogB11: 194. Jib bɛrq. Second stem vowel may not be actually present
 
 m a ħ a s a , m a ħ oː s $wipe. Les87.
 m a w u t a , m oː t $die. Les87.

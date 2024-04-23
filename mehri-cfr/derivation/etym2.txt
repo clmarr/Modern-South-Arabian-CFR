@@ -2,11 +2,11 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 #isʕatum# >>> #əsaːt# ( GOLD : #sajt#) :
 i s ʕ a t u m 
 #isʕatu# | 0 : m > ∅ / __ #
-#isʕˈatu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#əsʕˈatə# | 4 : [+syl,-stres] > ə 
-#əsʕˈat# | 5 : ə > ∅ / __ #
+#isʕˈatu# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#əsʕˈatə# | 5 : [+syl,-stres] > ə 
+#əsʕˈat# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #əsʕˈat#
-#əsʕˈaːt# | 7 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
-#əsˈaːt# | 8 : ʕ > ∅ 
-#əsaːt# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#əsʕˈaːt# | 8 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
+#əsˈaːt# | 9 : ʕ > ∅ 
+#əsaːt# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #əsaːt#

@@ -2,8 +2,8 @@ Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; e
 #χamˈisum# >>> #χəmis# ( GOLD : #χəmoːh#) :
 χ a m ˈi s u m 
 #χamˈisu# | 0 : m > ∅ / __ #
-#χəmˈisə# | 4 : [+syl,-stres] > ə 
-#χəmˈis# | 5 : ə > ∅ / __ #
+#χəmˈisə# | 5 : [+syl,-stres] > ə 
+#χəmˈis# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #χəmˈis#
-#χəmis# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#χəmis# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #χəmis#

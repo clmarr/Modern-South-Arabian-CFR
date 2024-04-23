@@ -1,5 +1,6 @@
 m > ∅ / __ #
 ʔ > ∅ 
+p > f 
 [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
 ˈi > i / m __ n [+lo]
 [+syl,-stres] > ə 

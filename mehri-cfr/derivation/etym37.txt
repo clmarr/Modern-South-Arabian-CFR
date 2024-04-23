@@ -1,9 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :37:
 #wakaba# >>> #wəkab# ( GOLD : #wəkoːb#) :
 w a k a b a 
-#wakˈaba# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#wəkˈabə# | 4 : [+syl,-stres] > ə 
-#wəkˈab# | 5 : ə > ∅ / __ #
+#wakˈaba# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#wəkˈabə# | 5 : [+syl,-stres] > ə 
+#wəkˈab# | 6 : ə > ∅ / __ #
 Proto-Mehri-Jibbali stage form : #wəkˈab#
-#wəkab# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+#wəkab# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
 Final form : #wəkab#

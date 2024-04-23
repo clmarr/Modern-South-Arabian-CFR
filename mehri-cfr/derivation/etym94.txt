@@ -1,10 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :94:
-#θinatum# >>> #θənat# ( GOLD : #θrajt#) :
-θ i n a t u m 
-#θinatu# | 0 : m > ∅ / __ #
-#θinˈatu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#θənˈatə# | 4 : [+syl,-stres] > ə 
-#θənˈat# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #θənˈat#
-#θənat# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #θənat#
+#θamaːnijum# >>> #θəmənij# ( GOLD : #θəmoːni#) :
+θ a m aː n i j u m 
+#θamaːniju# | 0 : m > ∅ / __ #
+#θamaːnˈiju# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#θəmənˈijə# | 5 : [+syl,-stres] > ə 
+#θəmənˈij# | 6 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #θəmənˈij#
+#θəmənij# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #θəmənij#

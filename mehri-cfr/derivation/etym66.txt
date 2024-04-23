@@ -1,10 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :66:
-#zamanum# >>> #zəman# ( GOLD : #zəmoːn#) :
-z a m a n u m 
-#zamanu# | 0 : m > ∅ / __ #
-#zamˈanu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#zəmˈanə# | 4 : [+syl,-stres] > ə 
-#zəmˈan# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #zəmˈan#
-#zəman# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #zəman#
+#zapana# >>> #zəfan# ( GOLD : #zəfoːn#) :
+z a p a n a 
+#zafana# | 2 : p > f 
+#zafˈana# | 3 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#zəfˈanə# | 5 : [+syl,-stres] > ə 
+#zəfˈan# | 6 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #zəfˈan#
+#zəfan# | 10 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #zəfan#

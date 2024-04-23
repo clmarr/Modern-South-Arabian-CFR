@@ -1,9 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :109:
-#maraɬa# >>> #məraɬ# ( GOLD : #məreːɮ#) :
-m a r a ɬ a 
-#marˈaɬa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#mərˈaɬə# | 4 : [+syl,-stres] > ə 
-#mərˈaɬ# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #mərˈaɬ#
-#məraɬ# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #məraɬ#
+#baraqum# >>> #bəraq# ( GOLD : #boːrəq#) :
+b a r a q u m 
+#baraqu# | 0 : m > ∅ / __ #
+#barˈaqu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#bərˈaqə# | 4 : [+syl,-stres] > ə 
+#bərˈaq# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #bərˈaq#
+#bəraq# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bəraq#

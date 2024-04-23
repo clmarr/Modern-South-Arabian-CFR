@@ -3,10 +3,10 @@ a̯ b a j t u m , a b a j t $house. OG set from AaJ.
 
 i s ʕ a t u m , s ə ʕ a j t $nine (masc). From fem? Rub19:266. Alt form below. Lack of initial ti- per KogA11: 68. 
 i s ʕ a t u m , s a j t $see above. 
-i s ʕ u m , s ɛː $nine (fem.). From masc? KogA11: 59. 
+i s ʕ u m , s ɛː $nine (fem.). From masc? KogA11: 59. Jib. sɔʕ, Soq. séʕeh
 
 ʔ a j j u m , e j $which. Les87
-ʔ a r n a b u m , ħ a r n ˈa j b $hare, per KogB11ː 209. Les87 has ħarneb. Jibbali ʔerní. (Ge'ez qərnəb, Arab. ʔarnab, Hebr. ʔarnɛvɛθ, Syr. ʔarnəv-aː, Akk. arnab-u.
+ʔ a r n a b u m , ħ a r n ˈa j b $hare, per KogB11ː 209. Les87 has ħarneb. Jibbali ʔerní. (Ge'ez qərnəb, Arab. ʔarnab, Hebr. ʔarnɛvɛθ, Syr. ʔarnəv-aː, Akk. arnab-u.)
 ʔ a r b a ʕ u m , a r b a $four (fem). Apparently from the masculine? Rub19: 266.
 ʔ a r b a ʕ t u m , ə r b oː t $four (masc). Apparently from the feminine. OG set from AaJ. +Rub19: 266.
 ʔ a n t a , h eː t $2msg pronoun. Rub19: 262. Omani.
@@ -14,6 +14,7 @@ i s ʕ u m , s ɛː $nine (fem.). From masc? KogA11: 59.
 ʔ a n t i , h eː t $2fsg pronoun. Rub19: 262. Omani.
 ʔ a n t i n aː , ə t eː n $2fpl pronoun. 
 ʔ a b w u m , ħ a j b $father. Les87. Rub19: 263. 
+ʔ a m s u m , j ə m ʃ eː $yesterday. KogA11: 106. Jib. ʔəms̃ín, Soq. ʔimšin. 
 ʔ i m m u m , ħ aː m $mother. Les87. 
 ʔ u b h aː n u m , h aː b ˈeː n $thumb. KogA11: 59. Initial vowel quality uncertain.
 
@@ -37,6 +38,7 @@ q a b a r a , q ə b uː r $he has buried. OG set from AaJ.
 χ ˈa m i s u m , χ ˈa j m ə h $five (fem). KogA11: 106. Hypothesis stress as gender difference.
 
 ʁ a r a p a , ʁ a r oː f $draw water. Les87. 
+ʁ a p a r a , ʁ ə f uː r $to cover. KogA11: 58. Jib. ɣɔ́fɔ́r (ɣ = ʁ); Gez ʕəfərə, Akk apaːr-u. 
 ʁ u r a j b u m , ʁ ə r ˈa j b $crow, raven. Bom14ː 58, but with form agrees with that used on wiktionary (Bomhard has ʁar-ib and ʁur-a(ː)b as alternate forms...). Other forms per KogA11:58 checked below.
 ʁ aː r i b u m , ʁ ə r ˈa j b $crow, raven. See above.
 ʁ u r aː b u m , ʁ ə r ˈa j b $crow, raven. See above.
@@ -51,7 +53,7 @@ k a s a p a , k ə s oː b $snatch, disarm. Les87. Geez kəsəbə, Arab kasafa, 
 k a r i ɬ u m , k iː r ə ɬ $stomach. KogA11: 57. 
 k a l b u m , k oː b $dog. Les87.
 k a p p u m , k e f f $back of hand. Les87. 
-k a b k a b u m , k a b k iː b $star. Les87.
+k a b k a b u m , k ə b k iː b $star. kobkīb in Les87. Going with form in KogB11ː 193. 
 k u t t aː n u m , k ə t t oː n $bedbug. Les87. 
 
 ɡ i l d u m , ɡ ɛː d $skin. KogA11: 216. Les87 as geld. 
@@ -60,7 +62,7 @@ j a w m u m , j uː m $day. OG set from AaJ.
 j i b a k k i , j ə b a j k $he weeps. OG set from AaJ.
 j i m a l l i k , j ə m uː l ə k $he owns. OG set from AaJ.
 
-s a p i l a , h oː f ə l $be low. KogA11: 105. 
+s a p i l a , h oː f ə l $be low. KogA11: 105. Jib. šɔ́fəl, Soq. šáfəl.
 s a b a tˀ a , s ə b oː tˀ $hit. Les87. 
 s a b ʕ u m , h oː b a $seven (fem). Apparently from masc?ǃ OG set from AaJ. + Rub19: 266.
 s a b ʕ a t u m , j ə b ˈa j t $seven (masc). Apparently from fem?!  Rub19: 266.
@@ -72,7 +74,7 @@ s i ʔ a , s eː $3fsg pronoun. Rub19: 262.
 s i d θ u m , h ə tː $six (fem). Apparently from masc. KogA11: 106. Mehri form from Rub19: 266. 
 s i d θ ˈa t u m , j ə t ˈiː t $six (masc). From feminine?? Rub19: 266.
 s i n aː , s eː n $3fpl pronoun. Rub19: 262.
-s i n a t u m , ʃ ə n eː t $sleep. KogA11: 105. 
+s i n a t u m , ʃ ə n eː t $sleep. KogA11: 105. Jib. s̃ónút, Soq. šínoh.
 s i m u m , h a m $name. Rub19:266. 
 
 z a r a q a , z ə r oː q $sting, stab. Les87. 
@@ -91,6 +93,7 @@ t͡sˀ u r i ħ a , t͡sˀ oː r e ħ $crow.
 
 ɬˀ a b a tˀ u m , ɬˀ a j b ə t $grasp. Les87? TODO check source.
 
+ɬ a h r u m , ɬ eː h ə r $crescent moon. KogB11: 193.
 ɬ a j b u m , ɬ a j b $grey hair. KogA11: 57. 
 ɬ a l aː θ a t u m , ɬ aː θ ˈa j t $three (masculine)... apparently from the feminine (per wiktionary...). Rub19: 266.
 ɬ a l aː θ u m , ɬ h ə l iː θ $three (feminine) ... from masculine?! Rub19: 266. 
@@ -98,12 +101,12 @@ t͡sˀ u r i ħ a , t͡sˀ oː r e ħ $crow.
 ɬ uː r u m , ɬ a w r $advice. OG set from AaJ.
 
 l a b a n u m , ə l b oː n $white. OG set from AaJ.
-l i s a n u m , ɛ w ʃ eː n $tongue. KogA11: 105. 
+l i s a n u m , ɛ w ʃ eː n $tongue. KogA11: 105. Jib. ɛls̃ɛ́n, Soq. léšin 
 
 r a ħ a t u m , r ə ħ aː t $palm of hand. Militarev and Kogan 2000 pp202-3. 
 r a ħ a l a , r a ħ aː l $saddle (v.)? 
 r a p a q a t u m , r ə f ə q aː t $clothes peg. Les87.
-r a ʔ s u m , r oː h $head. KogA11: 106. 
+r a ʔ s u m , r oː h $head. KogA11: 106. Jib rɛ́š, Soq. réh. 
 
 n a h a q a , n ə h eː q $blow. Les87.
 n a χ iː r u m , n ə χ r iː r $nose (< nostril). Les87 as naχrīr "nose". KogA11ː 58. 
@@ -129,14 +132,14 @@ $KogA11ː 56 -- *ḏVb(V)b- ‘fly’ > Akk. zubbu, Hbr. zəbūb, Syr. debbābā
 p a ħ a s a , f ħ aː s $twist. Les87
 p a ħ a l u m , f a ħ l $penis. Les87.
 p a t a n a , f ə t oː n $test, tempt. Les87.
-p a r a s u m , f e r h $horse. Now suffixed in -īn. Les87 
+p a r a s u m , f e r h $horse. Now suffixed in -īn. Les87. Or (KogB11ː 184) fərháyn. 
 p a r θ , f a r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
 p a l a ɡ u m , f ə l eː ɡ $stream, watercourse. Bom14: 56. Les87 as felēg. Arb. faladʒ, Hebr pɛlɛg, Geez fələg, Akk palg-u. 
 
 b a ʕ l u m , b aː l $owner. Bom14: 35. 
 b a ʕ l a t u m , b aː l iː t $mistress. Wiktionary... TODO check. 
 b a s a l a , b ə h eː l $he has cooked. OG set from AaJ.
-b a r a q u m , b oː r ə q $lightning. KogB11: 194. 
+b a r a q u m , b oː r ə q $lightning. KogB11: 194. Jib bɛrq. 
 
 m a ħ a s a , m a ħ oː s $wipe. Les87.
 m a w u t a , m oː t $die. Les87.

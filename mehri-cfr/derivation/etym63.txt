@@ -1,9 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :63:
-#zapana# >>> #zəpan# ( GOLD : #zəfoːn#) :
-z a p a n a 
-#zapˈana# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#zəpˈanə# | 4 : [+syl,-stres] > ə 
-#zəpˈan# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #zəpˈan#
-#zəpan# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #zəpan#
+#simum# >>> #sim# ( GOLD : #ham#) :
+s i m u m 
+#simu# | 0 : m > ∅ / __ #
+#sˈimu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#sˈimə# | 4 : [+syl,-stres] > ə 
+#sˈim# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #sˈim#
+#sim# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sim#

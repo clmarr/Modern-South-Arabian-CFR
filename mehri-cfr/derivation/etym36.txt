@@ -1,10 +1,12 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :36:
-#warχum# >>> #warχ# ( GOLD : #warχ#) :
-w a r χ u m 
-#warχu# | 0 : m > ∅ / __ #
-#wˈarχu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#wˈarχə# | 4 : [+syl,-stres] > ə 
-#wˈarχ# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #wˈarχ#
-#warχ# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #warχ#
+#waʕilum# >>> #wəaːl# ( GOLD : #waːl#) :
+w a ʕ i l u m 
+#waʕilu# | 0 : m > ∅ / __ #
+#waʕˈilu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#wəʕˈilə# | 4 : [+syl,-stres] > ə 
+#wəʕˈil# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #wəʕˈil#
+#wəʕˈaːl# | 7 : [+syl] > [-hi,-round,+lo,+tense,+long,-cons,-lat,+cont,0delrel] / ʕ __ 
+#wəˈaːl# | 8 : ʕ > ∅ 
+#wəaːl# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #wəaːl#

@@ -1,0 +1,10 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :114:
+#midrum# >>> #midr# ( GOLD : #mədeːr#) :
+m i d r u m 
+#midru# | 0 : m > ∅ / __ #
+#mˈidru# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#mˈidrə# | 4 : [+syl,-stres] > ə 
+#mˈidr# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #mˈidr#
+#midr# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #midr#

@@ -1,10 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :86:
-#nasrum# >>> #nasr# ( GOLD : #noːhər#) :
-n a s r u m 
-#nasru# | 0 : m > ∅ / __ #
-#nˈasru# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#nˈasrə# | 4 : [+syl,-stres] > ə 
-#nˈasr# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #nˈasr#
-#nasr# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #nasr#
+#nahaqa# >>> #nəhaq# ( GOLD : #nəheːq#) :
+n a h a q a 
+#nahˈaqa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#nəhˈaqə# | 4 : [+syl,-stres] > ə 
+#nəhˈaq# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #nəhˈaq#
+#nəhaq# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #nəhaq#

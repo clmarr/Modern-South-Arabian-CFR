@@ -1,9 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :108:
-#mawuta# >>> #məwut# ( GOLD : #moːt#) :
-m a w u t a 
-#mawˈuta# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
-#məwˈutə# | 4 : [+syl,-stres] > ə 
-#məwˈut# | 5 : ə > ∅ / __ #
-Proto-Mehri-Jibbali stage form : #məwˈut#
-#məwut# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
-Final form : #məwut#
+#basala# >>> #bəsal# ( GOLD : #bəheːl#) :
+b a s a l a 
+#basˈala# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#bəsˈalə# | 4 : [+syl,-stres] > ə 
+#bəsˈal# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #bəsˈal#
+#bəsal# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bəsal#

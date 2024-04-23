@@ -1,0 +1,9 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :85:
+#nasaja# >>> #nəsaj# ( GOLD : #nəhuː#) :
+n a s a j a 
+#nasˈaja# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#nəsˈajə# | 4 : [+syl,-stres] > ə 
+#nəsˈaj# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #nəsˈaj#
+#nəsaj# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #nəsaj#

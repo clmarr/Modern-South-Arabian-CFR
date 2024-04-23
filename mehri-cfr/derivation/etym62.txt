@@ -1,0 +1,9 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :62:
+#zaraqa# >>> #zəraq# ( GOLD : #zəroːq#) :
+z a r a q a 
+#zarˈaqa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#zərˈaqə# | 4 : [+syl,-stres] > ə 
+#zərˈaq# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #zərˈaq#
+#zəraq# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #zəraq#

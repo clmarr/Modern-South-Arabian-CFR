@@ -1,0 +1,10 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :28:
+#χˈamisum# >>> #χamis# ( GOLD : #χˈajməh#) :
+χ ˈa m i s u m 
+#χˈamisu# | 0 : m > ∅ / __ #
+#χˈamˈisu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#χˈamˈisə# | 4 : [+syl,-stres] > ə 
+#χˈamˈis# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #χˈamˈis#
+#χamis# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #χamis#

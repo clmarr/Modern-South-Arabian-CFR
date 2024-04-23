@@ -1,0 +1,8 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :47:
+#jimallik# >>> #jəmallək# ( GOLD : #jəmuːlək#) :
+j i m a l l i k 
+#jimˈallik# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#jəmˈallək# | 4 : [+syl,-stres] > ə 
+Proto-Mehri-Jibbali stage form : #jəmˈallək#
+#jəmallək# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #jəmallək#

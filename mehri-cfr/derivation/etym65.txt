@@ -1,0 +1,10 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :65:
+#tajsum# >>> #tajs# ( GOLD : #tajh#) :
+t a j s u m 
+#tajsu# | 0 : m > ∅ / __ #
+#tˈajsu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#tˈajsə# | 4 : [+syl,-stres] > ə 
+#tˈajs# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #tˈajs#
+#tajs# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #tajs#

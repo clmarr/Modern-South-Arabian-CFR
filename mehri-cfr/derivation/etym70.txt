@@ -1,0 +1,9 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :70:
+#t͡sˀuriħa# >>> #t͡sˀəriħ# ( GOLD : #t͡sˀoːreħ#) :
+t͡sˀ u r i ħ a 
+#t͡sˀurˈiħa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#t͡sˀərˈiħə# | 4 : [+syl,-stres] > ə 
+#t͡sˀərˈiħ# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #t͡sˀərˈiħ#
+#t͡sˀəriħ# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #t͡sˀəriħ#

@@ -1,0 +1,9 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :87:
+#napaχa# >>> #nəpaχ# ( GOLD : #nəfoːχ#) :
+n a p a χ a 
+#napˈaχa# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#nəpˈaχə# | 4 : [+syl,-stres] > ə 
+#nəpˈaχ# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #nəpˈaχ#
+#nəpaχ# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #nəpaχ#

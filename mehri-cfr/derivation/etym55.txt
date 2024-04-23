@@ -1,0 +1,9 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :55:
+#sumuː# >>> #sum# ( GOLD : #heːm#) :
+s u m uː 
+#sˈumuː# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#sˈumə# | 4 : [+syl,-stres] > ə 
+#sˈum# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #sˈum#
+#sum# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #sum#

@@ -1,0 +1,10 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :72:
+#ɬajbum# >>> #ɬajb# ( GOLD : #ɬajb#) :
+ɬ a j b u m 
+#ɬajbu# | 0 : m > ∅ / __ #
+#ɬˈajbu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#ɬˈajbə# | 4 : [+syl,-stres] > ə 
+#ɬˈajb# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #ɬˈajb#
+#ɬajb# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #ɬajb#

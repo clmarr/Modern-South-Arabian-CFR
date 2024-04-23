@@ -1,0 +1,11 @@
+Derivation file for run '../comp-sem-cfrs/Modern-South-Arabian-CFR/mehri-cfr'; etymon number :104:
+#baʕlatum# >>> #bəlat# ( GOLD : #baːliːt#) :
+b a ʕ l a t u m 
+#baʕlatu# | 0 : m > ∅ / __ #
+#baʕlˈatu# | 2 : [+syl] > [+prim,+stres,+syl,+son,0delrel] / __ ( [-syl] )* [+syl] ( [-syl] )* #
+#bəʕlˈatə# | 4 : [+syl,-stres] > ə 
+#bəʕlˈat# | 5 : ə > ∅ / __ #
+Proto-Mehri-Jibbali stage form : #bəʕlˈat#
+#bəlˈat# | 8 : ʕ > ∅ 
+#bəlat# | 9 : [+syl] > [-stres,-prim,+syl,+son,0delrel] 
+Final form : #bəlat#

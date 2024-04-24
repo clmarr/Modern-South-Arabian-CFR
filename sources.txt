@@ -1,4 +1,5 @@
 Bom14 = Bomhard, Allen R. 2014. Afrasian Comparative Phonology and Vocabulary. Charleston, SC, USA (self-published). 
+Duf16 = Dufour, Julien. 2016. Modern South Arabian: A brnach of its own. Presented at The Ancient Languages of the Arabian Peninsula, Qatar University, 19-20 October 2016. 
 Les87 = Leslau, Wolf. 1987. Comparative Dictionary of Ge'ez (Classical Ethiopic. Otto Harrassowitz
 KogA11 = Kogan, Leonid. 2011. Proto-Semitic Phonetics and Phonology. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
 KogB11 = Kogan, Leonid. 2011. Proto-Semitic Lexicon. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 

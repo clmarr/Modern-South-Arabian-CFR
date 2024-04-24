@@ -31,6 +31,7 @@ h a d a d u m , h ə d $thunder. KogA11: 59.
 ʕ a ɬ a r u m , oː ɬ ə r $ten (fem). From masc?! Rub19: 266.
 ʕ u m aː n u , aː m oː n $'Uman. OG set from AaJ.
 
+q a d a r a , q ə d uː r $can.Gb_perf. Duf16: 2. Ji qɔdɔ́r. 
 q a b a r a , q ə b uː r $he has buried. OG set from AaJ.
 
 χ a s a r a , χ ə s oː r $decrease, pay. KogA11: 102.
@@ -50,7 +51,8 @@ w a r χ u m , w a r χ $moon, month. Les87. KogA11: 58.
 
 k a w a n a , k aː n $be. Les87.
 k a s a p a , k ə s oː b $snatch, disarm. Les87. Geez kəsəbə, Arab kasafa, Hebr kaːsaf, Akk kasaːpu. 
-k a r i ɬ u m , k iː r ə ɬ $stomach. KogA11: 57. 
+k aː t i b u m , k oː t ə b $literate person. Duf16: 2. Jib kútəb. 
+k a r i ɬ u m , k iː r ə ɬ $stomach. KogA11: 57. Duf16ː 2. Jib s̃írś, s̃úrś or s̃érś 'belly'. 
 k a l b u m , k oː b $dog. Les87.
 k a p p u m , k e f f $back of hand. Les87. 
 k a b k a b u m , k ə b k iː b $star. kobkīb in Les87. Going with form in KogB11ː 193. 
@@ -134,12 +136,14 @@ p a ħ a s a , f ħ aː s $twist. Les87
 p a ħ a l u m , f a ħ l $penis. Les87.
 p a t a n a , f ə t oː n $test, tempt. Les87.
 p a r a s iː n a , f ə r h a j n $horse. Now suffixed in -īn per Les87. Or (KogB11ː 184) fərháyn. Assume this is from plural.
+p a r i ð a , f iː ð ə r $Duf16:2. Jib féðər. A Gb pf. Analogized? 
 p a r θ , f a r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
 p a l a ɡ u m , f ə l eː ɡ $stream, watercourse. Bom14: 56. Les87 as felēg. Arb. faladʒ, Hebr pɛlɛg, Geez fələg, Akk palg-u. 
 
 b a ʕ l u m , b aː l $owner. Bom14: 35. 
 b a ʕ l a t u m , b aː l iː t $mistress. Wiktionary... TODO check. 
 b a s a l a , b ə h eː l $he has cooked. OG set from AaJ.
+b a d a n u m , b ə d eː n $body. Duf16: 2. Jib bedɛ́n. 
 b a r a q u m , b oː r ə q $lightning. KogB11: 194. Jib bɛrq. Second stem vowel may not be actually present
 
 m a ħ a s a , m a ħ oː s $wipe. Les87.

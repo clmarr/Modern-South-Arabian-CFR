@@ -2,57 +2,91 @@ $Proto-West Semitic,Soqotri
 i s ʕ u m , s ˈe ʕ e h $nine (fem.). From masc? KogA11: 59, 68. Mhr. sɛ. 
 
 ʔ a r χ u m , ʔ ˈa r ħ $heifer. KogA11: 59.  
+ʔ a r b a j a t u m , ʔ e r b h ˈi j o h $locust. KogB11: 213. 
 ʔ u ð n u m , ʔ ˈi d i h e n  $ear. KogA11: 56.
+ʔ i t͡sˀ b a ʕ u m , ʔ ˈe t͡sˀ b ˈa ħ $finger. KogB11: 224. 
+ʔ a b w u m , ʔ ˈi i f $father. KogB11ː 234.
+ʔ i m m u m , ʔ ˈem $mother. KogB11ː 234. 
+
 
 h a d a d u m , ʃ ˈe d $thunder. KogB11: 194. 
 
+ħ a l a b a , ħ ˈe l o b $milk (verb). KogB11: 240. 
+ħ a l a b u m , ħ ˈə l ɔ b $Yes the schwa is marked for stress in the source. Perhaps this is a typo and an /e/ was intended? 
+
+ʕ a j n u m , ʕ ˈa j n $eye. KogB11: 221. 
 ʕ a tˀ a s a , ʕ ˈe tˀ o ʃ $sneeze. KogA11: 106. 
 ʕ a ɬ a r u m , ˈa ɬ e r $ten (fem)... apparently from masculine. KogA11ː 57.  
 ʕ a p a r u m , ʕ ˈa f e r $earth, dust. KogB11: 199.
 ʕ i n z u m , ʔ ˈo z $goat. KogB11: 206. KogA11: 57 implies the form in -i- not -a- for Jibbali at least. 
 
-
 χ a m i s u m , χ ˈa m o ʃ $five (fem). KogA11: 58. 
 
+ʁ aː r i b u m , ʔ ˈa ʕ r e b $raven. KogB11: 209.
+
+k a r i ɬ u m , ʃ ˈe r e ɬ $stomach. KogB11: 219
+kˀ a r n u m , kˀ ˈa n $horn. KogB11: 225.  
+k a l l aː n u m , k e l ˈa n $bride, groom. KogB11: 236. 
 k a l b u m , k ˈa l b $dog. KogB11ː 207.
 k a b ɬ u m , k ˈo b ɬ $ram. KogB11: 205.
 
-
 ɡ a m a l u m , ɡ i m ˈa l $camel. KogB11: 207. 
-
+ɡ iː d u m , ʒ ˈi d $tendon. KogB11: 215. 
+ɡ i l d u m , ɡ ˈa d $skin. KogA11: 216. 
 
 j a k a̯ t u b , j e k ˈo t e b $Duf16: 2. write.impf.3ms.
 j a k t u b , j ˈe k t ɛ b $Duf16: 2. write.juss.3ms.
+j a d u m , ʔ ˈe d $KogB11: 223. 
 
 s a ħ a r u m , ħ ˈe r $today (< morning). KogA11: 197. 
 s a χ aː t u m , ʃ χ ˈɔ t $armpit. KogA11: 106. 
 s a p i l u m , ʃ ˈa f ə l $belly. KogA11: 105.
 s a b ʕ u m , h ˈo b e ħ $seven (fem?). KogA11: 106.
-s i t u m , ʃ ˈe h $buttocks, genitals. KogA11: 105. 
+s i t u m , ʃ ˈe h $buttocks, genitals. KogA11: 105, KogB11ː 218. 
+s i t u m , ʃ ˈi h o $butt. KogB11: 218. 
 s i d θ u m , h ˈi t e $six (fem?). KogA11: 106. 
 s i n a t u m , ʃ ˈi n o h $sleep. KogA11: 105.
-
 s i m u m , ʃ ˈe m $name. KogA11: 57. 
 
+t a w l i ʕ a t u m , t a ʕ ˈa l e h $worm. KogB11ː 213.
 t a j s u m , t ˈe ʃ $buck. KogA11: 106. 
 t a m a r a t u m , t i m r ˈe h $date palm. KogB11: 204. TODO unclear stress (not marked in KogB11ː 204).
 
+d aː d u m , d ˈe d o $paternal uncle. KogB11: 235. Affected by baby talk? TODO remove? 
 d a θ ʔ u m , d ˈo t e $grass. KogB11: 200. 
+d a m u m , d ˈiː m $blood. KogB11: 214. 
 
+ɬˀ i l a ʕ u m , ɮˀ ˈa l ħ $rib. KogB11: 217. 
+
+ɬ a ʔ p u m , ɬ ˈa b $foot track. KogB11: 225. Dual ŝaʔfi.
 ɬ a m ʔ aː l u m , ɬ ˈi m h e l $left (side). KogB11: 197.
 ɬ a m s u m , ʃ ˈa m $heat of sun. KogA11: 193. TODO sus? 
 
 l a b a n u m , l ˈi b e h o n $white. KogA11ː 198.
 l i s a n u m , l ˈe ʃ i n $tongue. KogA11: 57, 105.
+l i b b a t u m , ʔ i l b ˈi b $heart. KogB11: 218. 
 
-r a ʔ s u m , r ˈe h $head. KogA11: 106.
+r a ʔ s u m , r ˈe h $head. KogA11: 106. However KogB11(ː220) has rey. 
 
 n a s r u m , n ˈo j h i r $eagle. KogA11: 106. 
 
+θˀ a h r u m , tˀ h ˈa r $on, over (< back). KogB11: 217.
+θˀ i p r u m , tˀ ˈi f e r $nail. KogB11ː 224. 
+θˀ i ʔ a t u m , tˀ ˈa j $smell. KogB11: 227. 
+
 θ a ʔ w a t u m , θ ˈe ʔ e $ewe. KogB11: 205.
 
-p a r θ u m , f ˈo r t $food in the stomach. KogA11: 56. 
+ð a n a b u m , ð ˈi n o b $tail, anus. KogB11ː 225. Stress marked on both in source. TODO check. 
 
+p a ħ l u m , f ˈa ħ a l $penis. KogB11: 219. 
+p a r θ u m , f ˈo r t $food in the stomach. KogA11: 56. 
+p a n a j u m , f ˈa n e $face. KogB11: 220. 
+
+b a ʕ l u m , b ˈa ʕ l $owner. KogB11: 237. 
 b a t͡sˀ a l u m , b ˈi t͡sˀ l e $onion. KogB11: 203. 
 b a s a l a , b ˈe h e l $he has cooked. KogA11: 57. 
 b a r r u m , b ˈo r $wheat. KogB11: 203. 
+
+m a ʕ m a ʕ u m , m iː m aː ʕ $brain. KogB11: 220. Stress not marked in source. TODO check.
+m a t n u m , m ˈo t e n $small of the back, loins. KogB11: 215. 
+m a r a kˀ u m , m ˈa r a kˀ $broth. KogB11: 242. No stress marked in source. TODO reëxamine.

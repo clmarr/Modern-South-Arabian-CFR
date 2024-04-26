@@ -9,31 +9,42 @@ i s ʕ u m , s ɛː $nine (fem.). From masc? KogA11: 59. Jib. sɔʕ, Soq. séʕ
 ʔ a r n a b u m , ħ a r n ˈa j b $hare, per KogB11ː 209. Les87 has ħarneb. Jibbali ʔɛrní. (Ge'ez qərnəb, Arab. ʔarnab, Hebr. ʔarnɛvɛθ, Syr. ʔarnəv-aː, Akk. arnab-u.)
 ʔ a r b a ʕ u m , a r b a $four (fem). Apparently from the masculine? Rub19: 266.
 ʔ a r b a ʕ t u m , ə r b oː t $four (masc). Apparently from the feminine. OG set from AaJ. +Rub19: 266.
+ʔ a r b a j a t u m , ħ a r b j ˈeː t $locust. KogB11: 213. 
 ʔ a n t a , h ˈeː t $2msg pronoun. Rub19: 262. Omani.
 ʔ a n t u m uː , ə t ˈeː m $2mpl pronoun. Rub19: 262. 
 ʔ a n t i , h ˈeː t $2fsg pronoun. Rub19: 262. Omani.
 ʔ a n t i n aː , ə t ˈeː n $2fpl pronoun. 
-ʔ a b w u m , ħ ˈa j b $father. Les87. Rub19: 263. 
+ʔ a b w u m , ħ ˈa j b $father. KogB11ː 234. Les87. Rub19: 263. 
 ʔ a m s u m , j ə m ʃ ˈeː $yesterday. KogA11: 106. Jib. ʔəms̃ín, Soq. ʔimšin (per Sim11ː 1087ː ʔəmšín). Possibly derived.
-ʔ i m m u m , ħ ˈaː m $mother. Les87. 
+ʔ i t͡sˀ b a ʕ u m , ʃˀ ə b ˈa ʔ $finger. KogB11: 224. 
+ʔ i m m u m , ħ ˈaː m $mother. KogB11ː 234. Les87. 
+ʔ u ð n u m , j ð ˈeː n $ear. KogB11: 211. 
 ʔ u b h aː n u m , h aː b ˈeː n $thumb. KogA11: 59. Initial vowel quality uncertain.
 
 h a d a d u m , h ˈə d $thunder. KogA11: 59. 
 
 ħ a j kˀ u m , ħ ˈa j kˀ $seashore. Les87. Geez həjq. 
+ħ a l a b a , ħ ə l ˈuː b $milk (verb). KogB11: 240. 
 ħ a m θ u m , ħ ˈa m θ $lower belly. Les87, KogA11: 58. Stem vowel unknown. 
+ħ u p n u m , ħ ˈaː f ə n $hollow of hand. KogB11: 224. 
 
+ʕ a j n u m , ʔ ˈaː j n $eye. KogB11: 221. 
 ʕ a j r u m , ħ ˈa j r $donkey. KogB11: 206. 
 ʕ a tˀ a s a , ʔ ˈa w tˀ ə h $sneeze. KogA11: 106. 
 ʕ a θˀ m a t u m , ʔ aː ðˀ ə m ˈeː t $back (<bone). KogA11: 58. 
 ʕ aː d a , ʔ ˈaː d $still, further, also. Value of final vowel unclear. Manually reconstructed based on Les87 -- Geez ʕadi, Arb ʕaːda, Hebr/Aram ʕoːð.
 ʕ a ɬ a r a t u m , aː ɬ ə r ˈiː θ $ten (masc). From fem?! Rub19: 266
 ʕ a ɬ a r u m , ˈoː ɬ ə r $ten (fem)... apparently from masculine?ǃ KogA11ː 57; Rub19ː 266.
+ʕ a l a kˀ a t u m , ʔ aː w kˀ ˈa j t $worm. KogB11: 214. 
+ʕ a n k a b a t u m , ʔ aː n ʃ ˈɛː t $spider. KogB11: 213. Loan from Jibbali many centuries ago?
 ʕ a p a r u m , ʕ ˈoː f ə r $earth, dust. KogB11: 199.
+ʕ a m m a t u m , ʔ aː m ˈeː t $paternal aunt. KogB11: 235. 
+ʕ a m m u m , ʔ ˈoː m $paternal aunt. KogB11: 235. 
 ʕ u m aː n u , aː m ˈoː n $'Uman. OG set from AaJ.
 ʕ i n z u m , w ˈoː z $goat. KogB11: 206. KogA11: 57 implies the form in -i- not -a- for Jibbali at least. 
 
 χ a s a r a , χ ə s ˈoː r $decrease, pay. KogA11: 102.
+χ a l u m , χ ˈa j l $maternal uncle. KogB11: 235. 
 χ a m i s u m , χ ˈa j m ə h $five (fem). KogA11: 106.
 χ a m i s t u m , χ ə m ˈoː h $five (masc). OG set from AaJ. +Rub19: 266. -st- following "four (masc)" per OG set from AaJ. 
 
@@ -44,33 +55,41 @@ h a d a d u m , h ˈə d $thunder. KogA11: 59.
 ʁ u r aː b u m , ʁ ə r ˈa j b $crow, raven. See above.
 ʁ u r a b u m , ʁ ə r ˈa j b $crow, raven. See above.
 
-kˀ a d a r a , kˀ ə d ˈuː r $can.Gb_perf. Duf16: 2. Jib qɔdɔ́r. 
+kˀ a d a r a , kˀ ə d ˈuː r $can.Gb_perf. Duf16: 2. Jib qɔdɔ́r.
+kˀ a r n u m , kˀ ˈoː n $horn. KogB11: 225.  
 kˀ a b a r a , kˀ ə b ˈuː r $he has buried. OG set from AaJ.
+kˀ i b iː n u m , kˀ ə b ˈa j n $type of spider. Form is Common MSA. KogB11: 213. 
 
 k a w a n a , k ˈaː n $be. Les87.
 k a s a p a , k ə s ˈoː b $snatch, disarm. Les87. Geez kəsəbə, Arab kasafa, Hebr kaːsaf, Akk kasaːpu. 
+k a t i p u m , k ˈa t f $shoulder. KogB11: 224.  
 k aː t i b u m , k ˈoː t ə b $literate person. Duf16: 2. Jib kútəb. 
 k a r i ɬ u m , k ˈiː r ə ɬ $stomach. KogA11: 57. Duf16ː 2. Jib s̃írś, s̃úrś or s̃érś 'belly' (per Duf16ː2). 
+k a l l aː n u m , k ə l ˈoː n $bride, groom. KogB11: 236. 
 k a l b u m , k ˈa w b $dog. KogB11ː 207. [kōb] Les87.
-k a p p u m , k ˈe f f $back of hand. Les87. 
+k a p p u m , k ˈa f $back of hand. KogB11: 223. Les87 has keff. 
 k a b k a b u m , k ə b k ˈiː b $star. kobkīb in Les87. Going with form in KogB11ː 193. 
 k a b ɬ u m , k ˈa b ɬ $ram. KogB11: 205.
 k u t t aː n u m , k ə t t ˈoː n $bedbug. Les87. 
+k i n s aː d u m , k ə n s ˈiː d $shoulder. KogB11: 216. 
 
 ɡ i l d u m , ɡ ɛː d $skin. KogA11: 216. Les87 as geld. 
 
 w a ʕ i l u m , w ˈɛː l $mountain goat. KogB11ː 207. [waːl] inLes87. 
 w a k a b a , w ə k ˈoː b $Les87. Arabic wakaba. 
 w a r χ u m , w ˈa r χ $moon, month. Les87. KogA11: 58. 
+w a r i k a t u m , w ə r k ˈiː t $leg. KogB11: 224. 
 
 j a k a̯ t u b , j ə k ˈuː t ə b $write. Ga impf. Duf16: 2. Jib yəkɔ́təb. 
 j a k t u b , j ə k t ˈeː b $write. Ga juss. Duf16: 2. Jib yɔ́ktəb. 
 j a w m u m , j ˈuː m $day. OG set from AaJ.
+j a d u m , ħ ˈa j d $KogB11: 223. 
 j i p a̯ ð a r , j ə f ð ˈoː r $shiver with fear. Gb_impf. Duf16: 2. Jib yəfeðɔ́r. Initial stem vowel unsure. 
 j i p ð a r , j ə f ð ˈoː r $shiver with fear.Gb_juss. Duf16: 2. Jib yəfðɔr. Initial stem vowel unsure. 
 j i b a k k i , j ə b ˈa j k $he weeps. OG set from AaJ.
 j i m a l l i k , j ə m ˈuː l ə k $he owns. OG set from AaJ.
 
+s a χ aː t u m , χ ˈoː t $armpit. KogB11ː 217. Source form as saxātum rather than saxayatum per KogA11ː 106, on basis of Jibbali and Soqotri. 
 s a w kˀ a ʕ a , h ə w kˀ ˈaː $he has placed . OG set from AaJ.
 s a l a p a , s ə l ˈoː b $draw, pull out. KogA11: 81. Loan? 
 s a p i l u m , h ˈoː f ə l $be low > belly. KogA11: 105. Jib. šɔ́fəl, Soq. šáfəl.
@@ -92,11 +111,13 @@ z a r a kˀ a , z ə r ˈoː kˀ $sting, stab. Les87.
 z a p a n a , z ə f ˈoː n $dance. Les87. 
 z a m a n u m , z ə m ˈoː n $time, period. Les87.
 
+t a w l i ʕ a t u m , t ə w ˈaː l ˈoː t $worm. KogB11ː 213. TODO stress unmarked in source -- decide.
 t a j s u m , t ˈa j h $buck. KogA11ː 106. 
 t a m a r u m , t ˈoː m ə r $date palm. KogB11: 204. 
 
 tˀ iː n u m , tˀ ˈa j n $mud, clay. KogB11: 189.
 
+d aː d u m , d ˈiː d $paternal uncle. KogB11: 235. 
 d a m a r a , d ə m ˈoː r $destroy. Les87.
 d i b s u m , d ˈa b h $honey. KogA11: 106. 
 
@@ -104,8 +125,10 @@ t͡sˀ a d i kˀ u m , t͡sˀ aː d i kˀ $just. Les87. Ohter forms possible are
 t͡sˀ a m i ʕ a , d͡zˀ a j m e $thirst. Les87. Ge'ez tsʔəmʔə. Arb. zʕ a m iʔ a, Hebr tsʔaːmeʔ
 t͡sˀ u r i ħ a , t͡sˀ oː r e ħ $crow. 
 
-ɬˀ a b a tˀ u m , ɬˀ a j b ə t $grasp. Les87? TODO check source.
+ɬˀ a b a tˀ u m , ɮˀ a j b ə t $grasp. Les87? TODO check source.
+ɬˀ i l a ʕ u m , ɮˀ ˈaː l a ʕ $rib. KogB11: 217. 
 
+ɬ a ʔ p u m , ɬ ˈa f $foot track. KogB11: 225. 
 ɬ a h r u m , ɬ eː h ə r $crescent moon. KogB11: 193.
 ɬ a j b u m , ɬ a j b $grey hair. KogA11: 57; KogB11: 230. Jib ɬub. 
 ɬ a l aː θ a t u m , ɬ aː θ ˈa j t $three (masculine)... apparently from the feminine (per wiktionary...). Rub19: 266.
@@ -116,11 +139,13 @@ t͡sˀ u r i ħ a , t͡sˀ oː r e ħ $crow.
 
 l a b a n u m , ə l b oː n $white. OG set from AaJ.
 l i s a n u m , ɛ w ʃ eː n $tongue. KogA11: 105. Jib. ɛls̃ɛ́n, Soq. léšin 
+l i b b u m , w b ˈeː b $heart. KogB11: 218. 
 
 r a ħ a t u m , r ə ħ aː t $palm of hand. Militarev and Kogan 2000 pp202-3. 
 r a ħ a l a , r a ħ aː l $saddle (v.)? 
-r a p a kˀ a t u m , r ə f ə kˀ aː t $clothes peg. Les87.
 r a ʔ s u m , r oː h $head. KogA11: 106. Jib rɛ́š, Soq. réh. 
+r a χ a m a t u m , r ə χ ə m ˈuː t $Egyptian vulture. KogB11: 209. 
+r a p a kˀ a t u m , r ə f ə kˀ aː t $clothes peg. Les87.
 
 n a h a kˀ a , n ə h eː kˀ $blow. Les87.
 n a χ iː r u m , n ə χ r iː r $nose (< nostril). Les87 as naχrīr "nose". KogA11ː 58. 
@@ -128,13 +153,16 @@ n a s a j a , n ə h uː $forget. Les87. Manually reconstructed, TODO check.
 n a s r u m , n oː h ə r $eagle. KogA11: 106. 
 $KogA11: 56 -- *ṇṯr ‘to look, to watch’ > Akk. naṣāru, Ugr. nγr, Hbr. nṣr, Syr. nṭr, Arb. nḏ̣r, Sab. ṇṯr, Gez. naṣṣara, Mhr. nəḏ̣áwr (AHw. 755, DUL 624, HALOT 718, LSyr. 426, Lane 2810, SD 102, CDG 406, ML 283)
 n a p a χ a , n ə f oː χ $blow. Les87.
+n uː b a t u m , n i b b ˈɔ t $bee. KogB11: 211. 
 
-θˀ i p r u m , ðˀ f eː r $nail. KogA11: 56. Akk. ṣupru, Hbr. ṣippōrän, Syr. ṭeprā, Arb. ḏ̣ifr-, Gez. ṣəfr, Amh. ṭəfər, Mhr. ḏ̣fēr, Soq. ṭífer (SED I No. 285);
+θˀ a h r u m , ðˀ ˈaː r $on, over (< back). KogB11: 217.
+θˀ i ʔ a t u m , ðˀ ˈaː j $smell. KogB11: 227. 
+θˀ i p r u m , ðˀ f eː r $nail. KogB11ː 224. KogA11: 56. Akk. ṣupru, Hbr. ṣippōrän, Syr. ṭeprā, Arb. ḏ̣ifr-, Gez. ṣəfr, Amh. ṭəfər, Mhr. ḏ̣fēr, Soq. ṭífer (SED I No. 285);
 $KogA11: 56 -- $ṇṯr ‘to look, to watch’ > Akk. naṣāru, Ugr. nγr, Hbr. nṣr, Syr. nṭr, Arb. nḏ̣r, Sab.ṇṯr, Gez. naṣṣara, Mhr. nəḏ̣áwr (AHw. 755, DUL 624, HALOT 718, LSyr. 426, Lane 2810, SD 102, CDG 406, ML 283).
 
 θ a ʔ w a t u m , θ i w ˈiː t $ewe. KogB11: 205.
 θ a ʕ l a b u m , j ə θ ˈa j l $fox. KogB11ː 208. 
-
+θ a p a n u m , θ ˈo f ə n $rock hyrax. KogB11: 209.
 θ a m aː n i j a t u m , θ ə m ə n ˈiː t $eight (masc)... from fem? Rub19: 266.
 θ a m aː n i j u m , θ ə m ˈoː n i $eight (fem)... from masc? Rub19: 266
 θ i n a j u m , θ r oː h $two (masculine). Mehri form per Rub19: 266. PSem form tentatively per Bom14: 230. Consider instead... tinum? Or, the hypothesis of the below form (from wiktionary, but uncited).
@@ -144,28 +172,34 @@ $KogA11: 56 -- $ṇṯr ‘to look, to watch’ > Akk. naṣāru, Ugr. nγr, Hbr
 ð a k a r a , ð eː k ə r $remember (3SG)? KogA11: 56. Akk. zakāru, Hbr. zkr, Syr. dkr, Arb. ḏkr, Sab. ḏkr, Gez. zakara, Mhr. ḏēkər, Soq. dekir (AHw. 1503, HALOT 269, LSyr. 153, Lane 968, SD 38, CDG 636, ML 80, LS 127);
 $KogA11ː 56 -- *ḏVb(V)b- ‘fly’ > Akk. zubbu, Hbr. zəbūb, Syr. debbābā, Arb. ḏubāb-, Amh. zəmb, Mhr. ḏəbbēt, Soq. edbíboh (SED II No. 73)
 ð a k k u m , ð aː k $that (adj/prn). Les87.
-ð a n a b u m , ð ə n oː b $tail, anus. Les87.
+ð a n a b u m , ð ə n ˈuː b $tail, anus. KogB11ː 225. [ðənōb] in Les87.
+d a m u m , d ˈə m $blood. KogB11: 214. 
 
-p a ħ a s a , f ħ aː s $twist. Les87
-p a ħ a l u m , f a ħ l $penis. Les87.
-p a t a n a , f ə t oː n $test, tempt. Les87.
-p a r a s iː n a , f ə r h a j n $horse. Now suffixed in -īn per Les87. Or (KogB11ː 184) fərháyn. Assume this is from plural.
+p a ħ a s a , f ħ ˈaː s $twist. Les87
+p a ħ l u m , f ˈa ħ l $penis. Les87. KogB11: 219. 
+p a ʕ m u m , f ˈɛː m $foot. KogB11: 224.
+p a χ i ð u m , ə f χ ˈaː ð $leg. KogB11: 225. 
+p a t a n a , f ə t ˈoː n $test, tempt. Les87.
+p a r a s iː n a , f ə r h ˈa j n $horse. Now suffixed in -īn per Les87. Or (KogB11ː 184) fərháyn. Assume this is from plural.
 p a r i ð a , f ˈiː ð ə r $Duf16:2. Jib féðər. A Gb pf. Analogized? 
-p a r θ , f ˈa r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
+p a r θ u m , f ˈa r θ $food in stomach. KogA11: 56.  Akk. paršu, Hbr. päräš, Syr. pertā, Arb. farṯ-, Tna. färsi, Mhr. farṯ, Soq. fórt (SED I No. 221)
 p a l a ɡ u m , f ə l ˈeː ɡ $stream, watercourse. Bom14: 56. Les87 as felēg. Arb. faladʒ, Hebr pɛlɛg, Geez fələg, Akk palg-u. 
+p i s ʁ u m , f ˈeː s ə ʁ $gecko. Initial stem vowel uncertain. KogB11: 211
 
-b a ʕ l u m , b aː l $owner. Bom14: 35. 
+b a ʕ l u m , b ˈaː l $owner. KogB11: 237. Bom14: 35. 
 b a ʕ l a t u m , b aː l iː t $mistress. Wiktionary... TODO check. 
 b a t͡sˀ a l a t u m , b ə t͡sˀ ə l ˈeː t $onion. KogB11: 203. 
-b a s a l a , b ə h eː l $he has cooked. OG set from AaJ.
-b a d a n u m , b ə d eː n $body. Duf16: 2. Jib bedɛ́n. 
-b a r a kˀ u m , b oː r ə kˀ $lightning. KogB11: 194. Jib bɛrq. Second stem vowel may not be actually present
+b a s a l a , b ə h ˈeː l $he has cooked. OG set from AaJ.
+b a d a n u m , b ə d ˈeː n $body. Duf16: 2. Jib bedɛ́n. 
+b a r a kˀ u m , b ˈoː r ə kˀ $lightning. KogB11: 194. Jib bɛrq. Second stem vowel may not be actually present
 b a r r u m , b ˈa r r $wheat. KogB11: 203. 
 
-m a ħ a s a , m a ħ oː s $wipe. Les87.
-m a w u t a , m oː t $die. Les87.
+m a ħ a s a , m a ħ ˈoː s $wipe. Les87.
+m a ʕ m a ʕ u m , m ˈeː m a $brain. KogB11: 220. Stress not marked in original, guessed. TODO check. 
+m a w u t a , m ˈoː t $die. Les87.
 m aː j u m , m ˈoː h $water. KogB11: 191. Possible Arabism, givne -āj (> āʔ > ōh?) 
-m a r a ɬ a , m ə r eː ɮ $ail. KogB11: 229. Jib. mírɮˀ. Akk marās̩u, Ugr mrs̩, Arb mrd̩, etc. 
-m a r r a r a , m ə r  $bitter. KogB11ː 238. Les87 has marr instead. Hbr. mar, Syr. mar, Arab marra, Gez marara (mərərə), Ugr mr. TODO check? 
-m i d r u m , m ə d eː r $earth, mud, land. Les87. KogB11: 189. Root vowel uncertain. 
+m a t n u m , m ˈoː t ə n $small of the back, loins. KogB11: 215. 
+m a r a ɬ a , m ə r ˈeː ɮ $ail. KogB11: 229. Jib. mírɮˀ. Akk marās̩u, Ugr mrs̩, Arb mrd̩, etc. 
+m a r r a r a , m ˈə r  $bitter. KogB11ː 238. Les87 has marr instead. Hbr. mar, Syr. mar, Arab marra, Gez marara (mərərə), Ugr mr. TODO check? 
+m i d r u m , m ə d ˈeː r $earth, mud, land. Les87. KogB11: 189. Root vowel uncertain. 
 m i n a , m ə n $from. OG set from AaJ.

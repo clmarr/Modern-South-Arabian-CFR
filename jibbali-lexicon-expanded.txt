@@ -9,47 +9,72 @@ i s ʕ u m , s ˈɔ ʕ $nine (fem.). From masc? KogA11: 59, 68. Mhr. sɛ̄, Soq.
 ʔ a r ɬˀ u m , ʔ ˈɛ r ɮˀ $earth. KogA11: 57.
 ʔ a r b a ʕ u m , ˈo r b a ʕ $four (fem). Apparently from the masculine? Rub14: 278. 
 ʔ a r b a ʕ t u m , ɛ r b ə ʕ ˈɔ t $four (masc). OG set from AaJ as /ʔarbaʕtu/ in source form.  Apparently from the feminine? Plus Rub14ː 278. 
+ʔ a r b a j a t u m , ˈi r b ˈɔ t $locust. KogB11: 213. 
+ʔ a b w u m , ʔ ˈi j $father. KogB11ː 234.
 ʔ a m s a j n u m , ʔ ə m ʃʷ ˈi n $yesterday. KogA11: 106. Mhr. yemšī, yəmšē. Soq. ʔimšin (per Sim11ː 1087ː ʔəmšín). Possibly derived -- but amš-ay-n- is given in KogA11(ː107). 
 ʔ u ð n u m , ʔ i ð ˈɛ n  $ear. KogA11: 56.
+ʔ i t͡sˀ b a ʕ u m , ʔ i t͡sˀ b ˈa ʕ $finger. KogB11: 224. 
+ʔ i m m u m , ʔ ˈɛ m $mother. KogB11ː 234. 
 
 h a d a d u m , h ˈi d $thunder. KogA11: 59. 
 
+ħ a l a b a , ħ ɔ l ˈɔ b $milk (verb). KogB11: 240. 
+ħ a l a b u m , ħ ɔ l ˈɔ b $buttermilk. KogB11: 240. 
 ħ a p a θ , ħ f ˈɔ θ $keep. pr 3ms. Duf16ː 2. 
 ħ a p a θ a t , ħ f ɔ θ ˈɔ t $keep. pr 3fs. Duf16: 2. 
+ħ u p n u m , ħ ˈa f ə n $hollow of hand. KogB11: 224. 
 ħ i n tˀ a t u m , ħ i tˀ ˈe t $ear of rice. KogB11: 203. 
 ħ i n tˀ u m , ħ ˈi tˀ $food, beans, cereal. KogB11: 203. 
 
+ʕ a j n u m , ʕ ˈi h n $eye. KogB11: 221. 
 ʕ a j r u m , a ħ j ˈɛ r $donkey. KogB11: 206. 
 ʕ a tˀ a s a , ʔ ˈɔ tˀ ˈɔ ʃ $sneeze. KogA11: 106. 
 ʕ aː d a , ʔ ˈɛ d $until. Value of final vowel unclear. Manually reconstructed based on Les87 for Mehr ʔād. -- Geez ʕadi, Arb ʕaːda, Hebr/Aram ʕoːð.
 ʕ a ɬ a r a t u m , ə ɬ i r ˈe t $ten (masc). From fem?! Rub14ː 278, where two lexical stress accents are actually marked -- TODO consider changing the stress. 
 ʕ a ɬ a r u m , ˈɔ ɬ ə r $ten (fem)... apparently from masculine?ǃ Rub14ː 278. ʕɔ́ɬɔr in KogA11ː 57.  
+ʕ a l a kˀ a t u m , ʔ o kˀ ˈo t $worm. KogB11: 214. 
+ʕ a n k a b a t u m , ʔ ə n ʃʷ j ˈɛ t $spider. KogB11: 213. 
 ʕ a p a r a , ʕ ˈɔ f ˈɔ r $dig. KogB11 :189. 
 ʕ a p a r u m , ʕ ˈɔ f ə r $earth, dust. KogB11: 199.
+ʕ a m m a t u m , a ʕ ˈĩː t $paternal aunt. KogB11: 235. 
+ʕ a m m u m , ʕ ˈo m $paternal aunt. KogB11: 235. 
 ʕ u m aː n u , ʕ ˈuː n $'Uman. OG set from AaJ.
 ʕ i n z u m , ʔ ˈɔ z $goat. KogA11: 57. KogB11: 206.
 
+χ a l u m , ħ ˈi ɮ $maternal uncle. KogB11: 235. 
 χ a m i s u m , χ ĩː ʃ $five (fem). Rub14: 278. KogA11: 58. 
 χ a m i s t u m , χ ˈõː ʃ $five (masc). OG set from AaJ. Plus Rub14ː 278, whence the nasality. -st- following "four (masc)" per OG set from AaJ. 
 
 ʁ a p a r a , ɣ ɔ f ˈɔ r $to cover. KogA11: 58. Confusingly, given two stress accents in KogA11. TODO check stress.
+ʁ aː r i b u m , ʔ a ʁ ə r ˈe b $raven. KogB11: 209.
 
 kˀ a d a r a , kˀ ɔ d ˈɔ r $can.Gb_perf. Duf16: 2. Mhr qədúr. 
+kˀ a r n u m , kˀ ˈu n $horn. KogB11: 225.  
 kˀ a b a r a , kˀ ˈɔː r $he has buried. OG set from AaJ.
+kˀ i b iː n u m , i ʃʷ ˈiː n $type of spider. Form is Common MSA. KogB11: 213. 
 
+k a t i p u m , k ˈɛ t f $shoulder. KogB11: 224.  
 k aː t i b u m , k ˈu t ə b $literate person. Duf16: 2. Mhr kōtəb. 
 k a d a s a , k ɔ d ˈɔ s $heap up. pr 3ms. Duf16: 2. 
 k a d a s a t , k ɔ d ɔ s ˈɔ t $heap up. pr 3fs. Duf16: 2.
 k a l b u m , k ˈɔ b $dog. KogB11ː 207.
-k a r i ɬ u m , ʃʷ ˈi r ɬ $stomach. Duf16ː 2. Jib may have s̃írś, s̃úrś or s̃érś. 
+k a l l aː n u m , k o l ˈu n $bride, groom. KogB11: 236. TODO stress marked on both vowels in source.
+k a r i ɬ u m , ʃʷ ˈi r ɬ $stomach. Duf16ː 2. Jib may have s̃írś, s̃úrś or s̃érś. KogB11(ː219) opts for hte first, so we do here too.
+k a p p u m , k ˈɛ f $back of hand. KogB11: 223.
 k a b ɬ u m , k ˈɔ b ɬ $ram. KogB11: 205.
+k i n s aː d u m , k ə n s ˈe d $shoulder. KogB11: 216. 
 
 ɡ a m a l u m , ɡ ˈuː l $camel. KogB11: 207. 
+ɡ iː d u m , ʒʷ ˈe d $tendon. KogB11: 215. 
+ɡ i l d u m , ɡ ˈɔ d $skin. KogA11: 216. 
+
+w a r i k a t u m , i r ʃʷ ˈe t $leg. KogB11: 224. 
 
 j a k a̯ t u b , j ə k ˈɔ t ə b $write. Ga impf. Duf16: 2.
 j a k t u b , j ˈɔ k t ə b $write. Ga juss. Duf16: 2.
 j a w m u m , ˈɛː m $day. OG set from AaJ.
 j a d a̯ p u ʕ , j ə d ˈɔ f ə ʕ $Duf16: 2. Ga type imperfect 3ms. 
+j a d u m , ˈe d $KogB11: 223. 
 j a d p u ʕ , j ˈɔ d f ə ʕ $Duf16: 2. Ga type jussive 3ms. 
 j i p a̯ r a ħ , j ə f ˈɔ r ə ħ $Duf16: 2. Gb type imperfect 3mss. 
 j i p a̯ ð a r , j ə f e ð ˈɔ r $shiver with fear. Gb_impf. Duf16: 2. Initial stem vowel unsure. 
@@ -70,6 +95,7 @@ s a m i ʕ a , ʃ ˈiː ʕ $he has heard. OG set from AaJ.
 s a m n u m , ʃ ˈɛ̃ n $fat. KogA11: 105. 
 s u ʔ a , ʃ ˈɛ $3msg pronoun. KogA11ː107. 
 s i t u m , ʃ ˈɔː $buttocks, genitals. KogA11: 105. 
+s i t u m , ʃʷ ˈe t $butt. KogB11: 218. 
 s i ʔ a , s ɛ $3fsg pronoun. KogA11: 106. 
 s i d θ a t u m , ʃ t ˈe t $six (masc). From feminine?? Rub14ː 278. 
 s i d θ u m , ʃ ɛ t $six (fem). From masc? Rub14: 278.
@@ -80,14 +106,21 @@ s i m u m , ʃ ˈu m $name. KogA11: 57.
 
 tˀ iː n u m , tˀ ˈu n $mud, clay. KogB11: 189.
 
-t a w l i ʕ a t u m , t ə b ʕ ˈɔ l ˈɔ t $worm. KogA11: 59. 
+t a w l i ʕ a t u m , t ə b ʕ ˈɔ l ˈɔ t $worm. KogA11: 59; KogB11ː 213. 
 t a j s u m , t ˈu ʃ $buck. KogA11: 106. 
 t a m a r a t u m , t ə m r ˈɛ t $date palm. KogB11: 204. 
 
-d a f a ʕ a , d ˈe f ə ʕ $Duf16:2. Ga type perf. 
+d aː d u m , d ˈi d $paternal uncle. KogB11: 235. 
 d a θ ʔ u m , d ˈɔ θ ɛ ʔ $grass. KogB11: 200. 
+d a p a ʕ a , d ˈe f ə ʕ $Duf16:2. Ga type perf. 
+d a m u m , d ˈi h m $blood. KogB11: 214. 
 d i b s u m , d ˈə b ʃ $honey. KogA11: 106.
 
+ɬˀ a b b u m , ɮˀ ˈɔ b $monitor lizard. KogB11: 211. 
+ɬˀ i l a ʕ u m , ɮˀ ˈa l ʕ $rib. KogB11: 217. 
+
+ɬ a ʔ p u m , ɬ ˈɛ f $foot track. KogB11: 225. 
+ɬ a ħ m a t u m , ɬ ħ m ˈɛ t $temple. KogB11: 215. 
 ɬ a j b u m , ɬ ˈu b $grey hair. KogA11: 57; KogB11: 230. 
 ɬ a l aː θ a t u m , ɬ ɔ θ ˈe t $three (masculine)... apparently from the feminine (as per wiktionary for Mehri...). Rub14: 278. 
 ɬ a l aː θ u m , ɬ h ə l ˈe θ $three (feminine) ... from masculine?! Rub14ː 278. 
@@ -97,29 +130,49 @@ d i b s u m , d ˈə b ʃ $honey. KogA11: 106.
 
 l a b a n u m , l ˈuː n $white. OG set from AaJ.
 l i s a n u m , ɛ l ʃ ˈɛ n $tongue. KogA11: 105. Soq. léšin 
+l i b b a t u m , u b b ˈə t ə $heart. KogB11: 218. 
 
 r a ʔ s u m , r ˈɛ ʃ $head. KogA11: 106.Soq. réh. 
+r a χ a m a t u m , ɛ r χ ˈõː t $Egyptian vulture. KogB11: 209. 
+r i ʔ a t u m , r ˈɔː t $lung. KogB11: 219. 
 
 n a s r u m , n ˈu ʃ e r $eagle. KogA11: 106. 
+
+θˀ a h r u m , ðˀ ˈe r $on, over (< back). KogB11: 217.
+θˀ i ʔ a t u m , ðˀ ˈe ʔ $smell. KogB11: 227. 
+θˀ i p r u m , ðˀ ˈi f ˈɛ r $nail. KogB11ː 224. 
 
 θ a ʔ w a t u m , θ ˈeː t $ewe. KogB11: 205.
 θ a ʕ l a b u m , i θ ʕ ˈe l $fox. KogA11: 56. 
 θ a l g u m , θ ˈa l ɡ $snow. KogA11: 56. 
+θ a p a n u m , θ ˈɔ f u n $rock hyrax. KogB11: 209.
 θ a m aː n i j a t u m , θ ĩ n ˈi t $eight (masc)... from fem? Rub14ː 278. 
 θ a m aː n i j u m ,  θ ˈõ n i $eight (fem)... from masc? Rub14ː 278.
 θ i n a j u m , θ r ˈo h $two (masculine). Rub14ː 278. Mehri θrōh per Rub19: 266. PSem form tentatively per Bom14: 230. Consider instead... tinum? Or, the hypothesis of the below form (from wiktionary, but uncited).
 θ i n a t aː n i , θ r ˈo h $two (masculine). See above.
 θ i n a t u m , θ r ˈu t $two (feminine). Rub14ː 278. 
 
+ð a n a b u m , ð u n ˈu b $tail, anus. KogB11ː 225. Stress marked on both in source. TODO check. 
+
+p a ħ l u m , f ˈa ħ ə l $penis. KogB11: 219. 
+p a ʕ m u m , f ˈa ʕ m $foot. KogB11: 224.
+p a χ i ð u m , f ˈa χ ð $leg. KogB11: 225. 
+p a n a j u m , f ˈɛ n ɛ $face. KogB11: 220. 
 p a r i ħ a , f ˈe r ə ħ $Duf16:2. Gb pf. 
 p a r i ð a , f ˈe ð ə r $Duf16:2. A Gb pf. Analogized? 
+p a r θ u m , f ˈɔ r θ $KogB11: 225. 
 p a l a ɡ u m , f e l ˈɛ ɡ $stream, watercourse. KogB11ː 191. Actually marked with two accents. TODO check stress. 
+p i s ʁ u m , f ˈə s ʁ $gecko. Initial stem vowel uncertain. KogB11: 211
 
+b a ʕ l u m , b ˈa ʕ a l $owner. KogB11: 237. 
 b a t͡sˀ a l u m , b e t͡sˀ ˈa l $onion. KogB11: 203. 
 b a s a l a , b ˈe ʃ ə l $he has cooked. OG set from AaJ. KogA11: 57. 
 b a d a n u m , b e d ˈɛ n $body. Duf16: 2.
 b a r a kˀ u m , b ˈɛ r kˀ $lightning. KogB11: 194. Second stem vowel may not be actually present
 b a r r u m , b ˈo h r $wheat. KogB11: 203. 
 
+m a ʕ m a ʕ u m , m ˈa ʕ $brain. KogB11: 220.
 m aː j u m , m ˈi h $water. KogB11: 191. 
+m a t n u m , m ˈu t u n $small of the back, loins. KogB11: 215. 
+m a r a kˀ u m , m i r ˈɛ kˀ $broth. KogB11: 242. Stress marked on both vowels in source. TODO reëxamine.
 m i n a , m ə n $from. OG set from AaJ.

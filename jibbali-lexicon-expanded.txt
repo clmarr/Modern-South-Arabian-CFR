@@ -1,25 +1,50 @@
 $Proto-West Semitic,Jibbali
-a̯ b a j t u m , uː t $house
+a̯ b a j t u m , ˈuː t $house. OG set from AaJ.
 
-ʔ a r b a ʕ t u , ɛ r b ə ʕ ɔ t $four
+i s ʕ a t u m , s a ʕ ˈe t $nine (masc.). From fem? Rub14: 278. 
+i s ʕ u m , s ˈɔ ʕ $nine (fem.). From masc? KogA11: 59. Mhr. sɛ̄, Soq. séʕeh. Rub14ː 278. 
 
-ʕ u m aː n u , ʕ uː n $'Uman
+ʔ a r n a b u m , ʔ ɛ r n ˈi $hare. KogB11ː 209. Les87 has ħarneb. Jibbali ʔɛrní. (Ge'ez qərnəb, Arab. ʔarnab, Hebr. ʔarnɛvɛθ, Syr. ʔarnəv-aː, Akk. arnab-u.)
+ʔ a r b a ʕ u m , ˈo r b a ʕ $four (fem). Apparently from the masculine? Rub14: 278. 
+ʔ a r b a ʕ t u m , ɛ r b ə ʕ ˈɔ t $four (masc). OG set from AaJ as /ʔarbaʕtu/ in source form.  Apparently from the feminine? Plus Rub14ː 278. 
+ʔ a m s a j n u m , ʔ ə m ʃʷ ˈi n $yesterday. KogA11: 106. Mhr. yemšī, yəmšē. Soq. ʔimšin (per Sim11ː 1087ː ʔəmšín). Possibly derived -- but amš-ay-n- is given in KogA11(ː107). 
 
-q a b a r a , q ɔː r $he has buried
 
-χ a m i s u m , χ oː ʃ $five
+ʕ a ɬ a r a t u m , ə ɬ i r ˈe t $ten (masc). From fem?! Rub14ː 278, where two lexical stress accents are actually marked -- TODO consider changing the stress. 
+ʕ a ɬ a r u m , ˈɔ ɬ ə r $ten (fem)... apparently from masculine?ǃ Rub14ː 278. 
+ʕ u m aː n u , ʕ ˈuː n $'Uman. OG set from AaJ.
 
-j a w m u m , ɛː m $day
-j i b a k k i , j ɔː k $he weeps
-j i m a l l i k , j uː l ə k $he owns
 
-s a b ʕ u m , s oː ʕ $seven
-s a m i ʕ a , ʃ iː ʕ $he has heard
-s a w q a ʕ a , ɛ b q a ʕ $he has placed 
+kˀ a d a r a , kˀ ɔ d ˈɔ r $can.Gb_perf. Duf16: 2. Mhr qədúr. 
+kˀ a b a r a , kˀ ˈɔː r $he has buried. OG set from AaJ.
 
-ɬ uː r u m , ʃ ɛ b r $advice
+k aː t i b u m , k ˈu t ə b $literate person. Duf16: 2. Mhr kōtəb. 
 
-l a b a n u m , l uː n $white
+χ a m i s u m , χ ĩː ʃ $five (fem). Rub14: 278.
+χ a m i s t u m , χ ˈõː ʃ $five (masc). OG set from AaJ. Plus Rub14ː 278, whence the nasality. -st- following "four (masc)" per OG set from AaJ. 
 
-b a s a l a , b e ʃ ə l $he has cooked
-m i n a , m ə n $from 
+j a w m u m , ˈɛː m $day. OG set from AaJ.
+j i b a k k i , j ˈɔː k $he weeps. OG set from AaJ.
+j i m a l l i k , j ˈuː l ə k $he owns. OG set from AaJ.
+
+s a b ʕ a t u m , ʃ ə b ʕ ˈe t $seven (masc). Rub14: 278.
+s a b ʕ u m , ʃ ˈoː ʕ $seven (fem). OG set from AaJ. Rub14: 278 -- confirms this is the feminine form, onset in ʃ-. 
+s a m i ʕ a , ʃ ˈiː ʕ $he has heard. OG set from AaJ.
+s a w kˀ a ʕ a , ɛ b kˀ a ʕ $he has placed. OG set from AaJ. TODO determine stress. 
+s i d θ a t u m , ʃ t ˈe t $six (masc). From feminine?? Rub14ː 278. 
+s i d θ u m , ʃ ɛ t $six (fem). From masc? Rub14: 278.
+
+ɬ a l aː θ a t u m , ɬ ɔ θ ˈe t $three (masculine)... apparently from the feminine (as per wiktionary for Mehri...). Rub14: 278. 
+ɬ a l aː θ u m , ɬ h ə l ˈe θ $three (feminine) ... from masculine?! Rub14ː 278. 
+ɬ uː r u m , ʃ ˈɛ b r $advice. OG set from AaJ.
+
+l a b a n u m , l ˈuː n $white. OG set from AaJ.
+
+θ a m aː n i j a t u m , θ ĩ n ˈi t $eight (masc)... from fem? Rub14ː 278. 
+θ a m aː n i j u m ,  θ ˈõ n i $eight (fem)... from masc? Rub14ː 278.
+θ i n a j u m , θ r ˈo h $two (masculine). Rub14ː 278. Mehri θrōh per Rub19: 266. PSem form tentatively per Bom14: 230. Consider instead... tinum? Or, the hypothesis of the below form (from wiktionary, but uncited).
+θ i n a t aː n i , θ r ˈo h $two (masculine). See above.
+θ i n a t u m , θ r ˈu t $two (feminine). Rub14ː 278. 
+
+b a s a l a , b ˈe ʃ ə l $he has cooked. OG set from AaJ.
+m i n a , m ə n $from. OG set from AaJ.

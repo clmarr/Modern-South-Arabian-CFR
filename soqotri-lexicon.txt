@@ -1,0 +1,58 @@
+$Proto-West Semitic,Soqotri
+i s ʕ u m , s ˈe ʕ e h $nine (fem.). From masc? KogA11: 59, 68. Mhr. sɛ. 
+
+ʔ a r χ u m , ʔ ˈa r ħ $heifer. KogA11: 59.  
+ʔ u ð n u m , ʔ ˈi d i h e n  $ear. KogA11: 56.
+
+h a d a d u m , ʃ ˈe d $thunder. KogB11: 194. 
+
+ʕ a tˀ a s a , ʕ ˈe tˀ o ʃ $sneeze. KogA11: 106. 
+ʕ a ɬ a r u m , ˈa ɬ e r $ten (fem)... apparently from masculine. KogA11ː 57.  
+ʕ a p a r u m , ʕ ˈa f e r $earth, dust. KogB11: 199.
+ʕ i n z u m , ʔ ˈo z $goat. KogB11: 206. KogA11: 57 implies the form in -i- not -a- for Jibbali at least. 
+
+
+χ a m i s u m , χ ˈa m o ʃ $five (fem). KogA11: 58. 
+
+k a l b u m , k ˈa l b $dog. KogB11ː 207.
+k a b ɬ u m , k ˈo b ɬ $ram. KogB11: 205.
+
+
+ɡ a m a l u m , ɡ i m ˈa l $camel. KogB11: 207. 
+
+
+j a k a̯ t u b , j e k ˈo t e b $Duf16: 2. write.impf.3ms.
+j a k t u b , j ˈe k t ɛ b $Duf16: 2. write.juss.3ms.
+
+s a ħ a r u m , ħ ˈe r $today (< morning). KogA11: 197. 
+s a χ aː t u m , ʃ χ ˈɔ t $armpit. KogA11: 106. 
+s a p i l u m , ʃ ˈa f ə l $belly. KogA11: 105.
+s a b ʕ u m , h ˈo b e ħ $seven (fem?). KogA11: 106.
+s i t u m , ʃ ˈe h $buttocks, genitals. KogA11: 105. 
+s i d θ u m , h ˈi t e $six (fem?). KogA11: 106. 
+s i n a t u m , ʃ ˈi n o h $sleep. KogA11: 105.
+
+s i m u m , ʃ ˈe m $name. KogA11: 57. 
+
+t a j s u m , t ˈe ʃ $buck. KogA11: 106. 
+t a m a r a t u m , t i m r ˈe h $date palm. KogB11: 204. TODO unclear stress (not marked in KogB11ː 204).
+
+d a θ ʔ u m , d ˈo t e $grass. KogB11: 200. 
+
+ɬ a m ʔ aː l u m , ɬ ˈi m h e l $left (side). KogB11: 197.
+ɬ a m s u m , ʃ ˈa m $heat of sun. KogA11: 193. TODO sus? 
+
+l a b a n u m , l ˈi b e h o n $white. KogA11ː 198.
+l i s a n u m , l ˈe ʃ i n $tongue. KogA11: 57, 105.
+
+r a ʔ s u m , r ˈe h $head. KogA11: 106.
+
+n a s r u m , n ˈo j h i r $eagle. KogA11: 106. 
+
+θ a ʔ w a t u m , θ ˈe ʔ e $ewe. KogB11: 205.
+
+p a r θ u m , f ˈo r t $food in the stomach. KogA11: 56. 
+
+b a t͡sˀ a l u m , b ˈi t͡sˀ l e $onion. KogB11: 203. 
+b a s a l a , b ˈe h e l $he has cooked. KogA11: 57. 
+b a r r u m , b ˈo r $wheat. KogB11: 203. 

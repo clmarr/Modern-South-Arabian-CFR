@@ -5,4 +5,4 @@ KogA11 = Kogan, Leonid. 2011. Proto-Semitic Phonetics and Phonology. In Weninger
 KogB11 = Kogan, Leonid. 2011. Proto-Semitic Lexicon. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
 Rub14 = Rubin, Aaron D. 2014. The Jibbali (Shah̩ri) Language of Oman: Grammar and Texts. Leiden: Brill. 
 Rub19 = Rubin, Aaron D. 2019. "Mehri". In Huehnergard, J. and Pat-El, N. (eds.), The Semitic Languages (2nd edn). Routledge.
-Simeone-Senelle, Marie-Claude. 2011. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 
+Sim11 = Simeone-Senelle, Marie-Claude. 2011. In Weninger, Stefan (ed.), The Semitic Languages. De Gruyter Muyton. 

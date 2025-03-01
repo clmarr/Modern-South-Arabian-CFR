@@ -3,9 +3,64 @@ b a ɡ ˈa d a , b ə ɡ ˈuː d $Ga perf. 3ms/3fp.
 b a ɡ a d ˈa t , b ə ɡ ə d ˈuː t $ Ga perf. 3fs.
 b a ɡ ˈa d u , b ə ɡ ˈa w d $Ga perf. 3mp. 
 b a ɡ ˈa d n a , b ə ɡ ˈuː d ə n $Ga perf. 1cp. 
-b a ɡ ˈa d k u , 
+b a ɡ ˈa d k u , b ə ɡ ˈə d k $Ga perf. 1cs. 
+b a ɡ ˈa d k j , b ə g ˈə d k $Ga perf. 1cd. 
 b a ɡ a d ˈa t , b ə ɡ d ˈoː h $Ga perf. 3md.
 b a ɡ a d a t ˈa j , b ə ɡ ə d t ˈoː h $Ga perf. 3fd. 
 
 t i b ɡ ˈu d , t ə b ɡ ˈeː d $Ga subj. 1cs, 1cp, 2ms, 3ms, 3fs
-t i b ɡ ˈu d j , t ə b ɡ ˈeː d i $Ga subj. 2fs. 
+t i b ɡ ˈu d i , t ə b ɡ ˈeː d i $Ga subj. 2fs. 
+t i b ɡ ˈu d w , t ə b ɡ ˈeː d ə m $Ga subj. 2mp, 3mp
+t i b ɡ u d ˈa j , t ə b ɡ ə d ˈoː h $Ga subj. 1cd, 2cd, 3md, 3f
+
+t i b ˈa ɡ ɡ u d , t ə b ˈuː ɡ ə d $Ga Impf. 1cs, 1cp, 2ms, 3ms, 3fs
+$t i b ˈa ɡ ɡ d j , -- defective?
+t i b ˈa ɡ ɡ u d w , t ə b ˈə ɡ d ə m $Ga Impf. 2mp, 3mp
+t i b ˈa ɡ ɡ u d n a , t ə b ˈə ɡ d ə m $Ga Impf. 2fp, 3fp. 
+t i b a ɡ ɡ u d ˈa j , t ə b ə ɡ d ˈoː h $Ga Impf. 1cd, 2cd, 3md, 3fd 
+
+b aː ɡ i d ˈaː n ə , b ə ɡ d ˈoː n a $G Part. ms
+b aː ɡ i d ˈa j t ə , b ə ɡ d ˈiː t a $G Part. fs
+b aː ɡ i d ˈaː n j , b ə ɡ d ˈoː n i $G Part. md
+b aː ɡ i d ˈaː t j , b ə ɡ d ˈa w t i $G Part. fd
+b ə ɡ ɡ ˈaː d ə , b ə g j ˈeː d a $G Part mp
+b aː ɡ i d ˈaː t ə n , b ə ɡ d ˈuː t ə n $G part fp 
+
+b u ɡ ˈi d a , k t ˈeː b$G pass perf. 3ms, 3fp. 
+b u ɡ ˌi d ˈaː t , b ə ɡ d ˈeː t $G pass perf. 3fs
+$3mp -- defective but would be bugidw > bgedem?
+b u ɡ i d k u , k t ˈa b k $G pass perf. 1cs. 
+b u ɡ i d k j , k t ˈa b k $G pass perf. 1cd. 
+b u ɡ i d ˈa j , b ə ɡ ə d ˈoː h $G pass perf. 3md
+b u ɡ i d a t ˈa j , b ə ɡ ə d t ˈoː h $G pass perf. 3fd
+
+t u b ɡ ˈa d , t ə b ɡ ˈoː d $G pass subj imperf. 1cs, 1cp, 2ms, 3ms, 3fs
+t u b ɡ ˈa d j , t ə b ɡ ˈa j d i  $G pass subj imperf. 2fs 
+t u b ɡ ˈa d w , t ə b ɡ ˈiː d $G pass subj imperf. 2mp, 3mp
+t u b ɡ ˈa d n a , t ə b ɡ ˈoː d ə n $G pass subj imperf. 2fp, 3fp
+t u b ɡ a d ˈa j , t ə b ɡ ə d ˈeː h $G pass subj imperf. 1cd, 2cd, 3md, 3fd
+
+r ˈa k i b a , r ˈiː k ə b $Gb perf. 3ms, 3fp
+r a k i b ˈa t , r ə k b ˈoː t $Gb perf. 3fs
+r ˈa k i b u , r ˈə k b ə m $Gb perf. 3mp 
+r ˈa k i b n a , r ˈə k b ə n $Gb perf. 1cp
+r ˈa k i b k u , r ˈə k b ə k $Gb perf. 1cs 
+r ˈa k i b k j , r ˈə k b ə k $Gb perf. 1cd
+r a k i b ˈa j , r ə k b ˈoː h $Gb perf. 3md
+r a k i b a t ˈa j , r ə k b ə t ˈoː h $Gb perf. 3fd. 
+
+t i b ɡ ˈa d , t ə b ɡ ˈoː d $G pass subj/imperf. 1cs, 1cp, 2ms, 3ms, 3fs
+t i b ɡ ˈa d j , t ə b ɡ ˈa j d i $G pass subj/imperf. 2fs
+t i b ɡ ˈa d w , t ə b ɡ ˈiː d $G pass subj/imperf. 2mp, 3mp 
+t i b ɡ ˈa d n a , t ə b ɡ ˈoː d ə n $G pass subj/imperf. 2fp, 3fp
+t i b ɡ a d ˈa j , t ə b ɡ ə d ˈoː h $G pass subj/imperf. 1cd, 2cd, 3md, 3fd 
+
+r ˈa k k i b , r ˈoː k ə b $H2. CV párris. 
+r a k k ˌi b ˈa t , a r k ə b ˈeː t $H2. perf 3fs. 
+r a k k ˌi b ˈa j , a r k ə b ˈeː h $H2. dauls. 
+
+h a r k ˈa b a , h ə r k ˈuː b $H sterm perf. 3ms , 3fp
+$h i r k ˈu b a , h ə r k ˈuː b $H stem perf 3ms 3fp other ida
+h a r k a b ˈa t , h ə r k ə b ˈuː t $H stem perf. 3fs. 
+h a r k ˈa b u , h ə r k ˈiː b $H stem perf. 3mp
+h a r k a b ˈa j , h ə r k ə b ˈoː h $H stem perf. dual. 

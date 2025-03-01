@@ -1,0 +1,42 @@
+$Roey's "1." 
+[+syl] > ∅ / __ #
+
+$Roey's "2." 
+[+lo,+syl] > [+prim] / __ (([-syl])* [+syl,-lo])* ([-syl])* #
+[+syl,+prim] > [-stres] / __ (([-syl])* [-stres])* [+prim]
+
+$Roey's "3." -- no clear rule. 
+
+$Roey's "4."
+[+syl,-stres] > ə 
+
+$Roey's "5." -- actually "aC# --> ô", but he clearly doesn't mean for the C to be lost. 
+ˈa > ˈoː / __ [+cons] #
+
+#Roey's "6." aC1C2(#) -_> ˈə. He uses ě for stressed schwa. 
+ˈa > ˈə / __ [+cons] [+cons] 
+
+$Roey's "7." 
+ˈə > ˈa / __ [+cons] [+cons] # 
+
+$Roey's "8."
+ˈə > ˈeː / __ [+cons] # 
+
+$Roey's "9."
+ˈa > ˈɒ / __ [+cons] u # 
+
+$Roey's "10." 
+ˈa > ˈæ / __ (@)* [+cons] j 
+
+$Roey's "11." 11.	uC0(-long)V0C0áj# → ēh
+$TODO what is he saying? 
+
+$Roey's "12." áj# → ô
+ˈa j > ˈoː h / __ #
+
+$Roey's "13." 13.	*ìCáC# → əCēC
+ˌi [+cons] ˈa > ə [+cons] ˈeː / __ [+cons] # 
+
+$Roey's "14." íCw# → ěCəm
+ˈi [+cons] w > ˈə [+cons] ə m / __ #
+

@@ -343,7 +343,10 @@ j i n a kʼ aː r b ə tʼ , >* , >* , j ə n kʼ ˈa r b ə tʼ $nq spc 3ms
 j i n a kʼ aː r b ə tʼ uː , >* , >* , j ə n kʼ ˈa r b ə tʼ $nq spc 3mp syncretic
 j i n a kʼ aː r b ə tʼ uː , >* , >* , j ə n kʼ ˈa r b ə tʼ ə m $nq spc 3mp non syncretic
 
-
+$ Roey 10/2025 table 12 ga passive sc with 'write' (Jib kitˈib for all forms) -- pərəs
+... , k ə t ə b , >* , k t ˈeː b $3ms ga passive sc
+... , k ə t ə b w , >* , k t ˈeː b $3mp ga passive sc syncretic
+... , k ə t ə b w , >* , k t ˈeː b ə m $3mp ga passive sc nonsyncretic
 
 
 $ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 

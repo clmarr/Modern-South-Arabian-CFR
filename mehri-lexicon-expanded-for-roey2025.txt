@@ -289,7 +289,11 @@ $ Roey Oct 2025 writeup table 3 . cf. jəkʼ ˈɔdər (diff verb) for Jibbali; S
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈə ɡ f ə m $throw.3mp.Ga.LPC. Early PSAM -w assumed < -ū upon consultation. Testing possibility of syncretism instead below. 
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈuː ɡ ə f  $throw.3mp.Ga.LPC possibility of syncretism. 
 
-$Roey 
+$Roey Oct 2025 table 11 ga spc. Also 'throw', like above. 
+... , j ə n ɡ ˈa p , >* , j ə n ɡ ˈeː f $3ms ga spc
+... , j ə n ɡ ˈa p w , >* , j ə n ɡ ˈeː f $3mp ga spc syncretic
+... , j ə n ɡ ˈa p w , >* , j ə n ɡ ˈeː f ə m $3mp ga spc nonsyncretic
+
 
 $ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.Late PSAM *a assumed per  Dufour 2015: 4-5 . (Jibbali fˈɔtkər for both, diff verb; Soqotri ɬotˈenəz)
 ... , ʁ ˈa t ə b ə r , >* , ʁ ˈa t b ə r $meet.3ms, T1 SC. 

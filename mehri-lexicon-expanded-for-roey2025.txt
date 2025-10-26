@@ -206,25 +206,25 @@ m i d r u m , m ə d ˈeː r $earth, mud, land. Les87. KogB11: 189. Root vowel u
 m i n a , m ə n $from. OG set from AaJ.
 
 
-$=Proto-West-Semitic,Early Proto-SAM,Mehri
-$Roey March 2025 lexicon. Having oː for "ô" ; ɒː for "å", eː for "ê" ɘ for "ě". is ě the same as æ? Or not ː æː for "æ"
+$=Proto-West-Semitic,Early Proto-SAM,Late Proto-SAM,Mehri
+$Roey March 2025 lexicon. Having oː for "ô" ; ɒː for "å", eː for "ê" ɘ for "ě". is ě the same as æ? Or not ː æː for "æ". -əm forms not in Proto-SAM since not in Jibbali, Soqotri, etc. 3mp corrected to long -u in PWS
 b a ɡ ˈa d a , b ə ɡ ˈa d , b ə ɡ ˈoː d , b ə ɡ ˈuː d $Ga perf. 3ms/3fp. Roey March 2025: bagáda → bəgád → bəgôd  → . 
 b a ɡ a d ˈa t , b ə ɡ ə d ˈa t , b ə ɡ ə d ˈoː t , b ə ɡ ə d ˈuː t $ Ga perf. 3fs. bagad-át → bəgədát → bəgədôt →
-b a ɡ ˈa d u , b ə ɡ ˈa d u , b ə ɡ ˈɒː d , b ə ɡ ˈa w d $Ga perf. 3mp. 
+b a ɡ ˈa d uː , >* , b ə ɡ ˈɒː d , b ə ɡ ˈa w d $Ga perf. 3mp. 
 b a ɡ ˈa d n a , b ə ɡ ˈa d n a , b ə ɡ ˈoː d n , b ə ɡ ˈuː d ə n $Ga perf. 1cp. 
 b a ɡ ˈa d k u , >* , b ə ɡ ˈɘ d k , b ə ɡ ˈə d k $Ga perf. 1cs. 
-b a ɡ ˈa d k j , >* , b ə ɡ ˈɘ d k , b ə g ˈə d k $Ga perf. 1cd. 
+b a ɡ ˈa d k i , b ə ɡ ˈa d k j , b ə ɡ ˈɘ d k , b ə g ˈə d k $Ga perf. 1cd. - ki assumed to be og PWS; -j assumed Early PSAM upon consultation. 
 b a ɡ a d ˈa t , >* , b ə ɡ ə d ˈoː , b ə ɡ d ˈoː h $Ga perf. 3md
 b a ɡ a d a t ˈa j , >* , b ə ɡ ə d ə t ˈoː , b ə ɡ ə d t ˈoː h $Ga perf. 3fd. 
 
 t i b ɡ ˈu d , >* , t ə b ɡ ˈɘ d , t ə b ɡ ˈeː d $Ga subj. 1cs, 1cp, 2ms, 3ms, 3fs
-t i b ɡ ˈu d i , >* , t ə b ɡ ˈɘ d j , t ə b ɡ ˈeː d i $Ga subj. 2fs. 
-t i b ɡ ˈu d w , >* , t ə b ɡ ˈɘ d w , t ə b ɡ ˈeː d ə m $Ga subj. 2mp, 3mp
+t i b ɡ ˈu d iː , >* , t ə b ɡ ˈɘ d j , t ə b ɡ ˈeː d i $Ga subj. 2fs. PWS *-ī assumed upon consultation.
+t i b ɡ ˈu d uː , t i b ɡ ˈu d w , t ə b ɡ ˈɘ d w , t ə b ɡ ˈeː d ə m $Ga subj. 2mp, 3mp. tibgudū vs tibgudw -- *-w assumed to be Early Proto-SAM vs. -ū assumed for PWS upon consultation. 
 t i b ɡ u d ˈa j , t ə b ɡ ə d ˈa j , t ə b ɡ ə d ˈoː , t ə b ɡ ə d ˈoː h $Ga subj. 1cd, 2cd, 3md, 3f
 
 t i b ˈa ɡ ɡ u d , >* , t ə b ˈoː ɡ d , t ə b ˈuː ɡ ə d $Ga Impf. 1cs, 1cp, 2ms, 3ms, 3fs
 $t i b ˈa ɡ ɡ d j , təbággdj → təbægg(ə)d-- defective?
-t i b ˈa ɡ ɡ u d w , >* , t ə b ˈɘ ɡ ɡ d ə w , t ə b ˈə ɡ d ə m $Ga Impf. 2mp, 3mp
+t i b ˈa ɡ ɡ u d uː , >* , t ə b ˈɘ ɡ ɡ d ə w , t ə b ˈə ɡ d ə m $Ga Impf. 2mp, 3mp. *tibaggdw ː -w assumed to be Early Proto-SAM vs. -ū assumed for PWS upon consultation. 
 t i b ˈa ɡ ɡ u d n a , >* , t ə b ˈɘ ɡ ɡ d ə w , t ə b ˈə ɡ d ə n $Ga Impf. 2fp, 3fp. 
 t i b a ɡ ɡ u d ˈa j , >* , t ə b ə ɡ ɡ d ˈoː , t ə b ə ɡ d ˈoː h $Ga Impf. 1cd, 2cd, 3md, 3fd 
 
@@ -237,9 +237,9 @@ b aː ɡ i d ˈaː t ə n , >* , b a ɡ ə d ˈoː t ə n , b ə ɡ d ˈuː t ə
 
 b u ɡ ˈi d a , >* , b ə ɡ ˈɘ d , k t ˈeː b $G pass perf. 3ms, 3fp. 
 b u ɡ ˌi d ˈaː t , >* , b ə ɡ ə d ˈa t , b ə ɡ d ˈeː t $G pass perf. 3fs
-$3mp -- defective but would be bugidw > bgědem?
+b u ɡ ˈi d uː , >* , b ɡ ˈɘ d ə w , b ɡ ˈe d ə m $3mp -- defective (??) but would be bugidw > bgědem? Per his notes
 b u ɡ ˈi d k u , >* , b ə ɡ ˈɘ d k w , k t ˈa b k $G pass perf. 1cs. Likewise for 2(??) in -kum 
-b u ɡ ˈi d k j , >* , b ə ɡ ˈɘ d k j , k t ˈa b k $G pass perf. 1cd. Likewise for 2 , -ki, -kj?, -kin),
+b u ɡ ˈi d k i , >* , b ə ɡ ˈɘ d k j , k t ˈa b k $G pass perf. 1cd. Likewise for 2 , -ki, -kj?, -kin),
 b u ɡ ˈi d k a , >* , b ə ɡ ˈɘ d k ə , k t ˈa b k $G pass perf. 2 (??) in -ka. 
 b u ɡ i d ˈa j , >* , >* , b ə ɡ ə d ˈoː h $G pass perf. 3md
 b u ɡ i d ˈa j , >* , b ə ɡ ə d ˈeː , b ə ɡ ə d ˈeː h $G pass perf. 3md. listed as -ēh in Roey's March 2025 file?? TODO is this an error? 
@@ -247,36 +247,37 @@ b u ɡ i d a t ˈa j , >* , >* , b ə ɡ ə d t ˈoː h $G pass perf. 3fd
 b u ɡ i d a t ˈa j , >* , b ə ɡ ə d t ˈeː , b ə ɡ ə d t ˈoː h $G pass perf. 3fd. listed as -ēh in Roey's March 2025 file?? TODO is this an error? 
 
 t u b ɡ ˈa d , >* , t ə b ɡ ˈoː d , t ə b ɡ ˈoː d $G pass subj imperf. 1cs, 1cp, 2ms, 3ms, 3fs
-t u b ɡ ˈa d j , >* , t ə b ɡ ˈæː d , t ə b ɡ ˈa j d i  $G pass subj imperf. 2fs 
-t u b ɡ ˈa d w , >* , t ə b ɡ ˈɒː d , t ə b ɡ ˈiː d $G pass subj imperf. 2mp, 3mp
+t u b ɡ ˈa d iː , t ə b ɡ ˈa d j , t ə b ɡ ˈæː d , t ə b ɡ ˈa j d i  $G pass subj imperf. 2fs. PWS *-ī assumed upon consultation. 
+t u b ɡ ˈa d uː , t ə b ɡ ˈa d w , t ə b ɡ ˈɒː d , t ə b ɡ ˈiː d $G pass subj imperf. 2mp, 3mp. PWS *-ū assumed upon consulatation, -w assumed to be Early PSAM. 
 t u b ɡ ˈa d n a , >* , t ə b ɡ ˈoː d n , t ə b ɡ ˈoː d ə n $G pass subj imperf. 2fp, 3fp
 t u b ɡ a d ˈa j , >* , t ə b ɡ ə d ˈeː , t ə b ɡ ə d ˈeː h $G pass subj imperf. 1cd, 2cd, 3md, 3fd
 
 r ˈa k i b a , r ˈa k ə b , r ˈeː k ə b , r ˈiː k ə b $Gb perf. 3ms, 3fb. Roey 2025 for proto-MSA ~ ride.3ms.G.SC.
 r a k i b ˈa t , >* , r ə k ə b ˈoː t , r ə k b ˈoː t $Gb perf. 3fs
-r ˈa k i b u , >* , >* , r ˈə k b ə m $Gb perf. 3mp
-r ˈa k i b u , >* , >* , r ˈiː k ə b $Roey 2025 ~ ride.3mp.G.SC -- Roey oct 2025 claims this would be syncretic, but -əm is secondarily added.  
-r ˈa k i b n a , >* , >* , r ˈə k b ə n $Gb perf. 1cp
-r ˈa k i b k u , >* , >* , r ˈə k b ə k $Gb perf. 1cs 
-r ˈa k i b k j , >* , >* , r ˈə k b ə k $Gb perf. 1cd
-r a k i b ˈa j , >* , >* , r ə k b ˈoː h $Gb perf. 3md
-r a k i b a t ˈa j , >* , >* , r ə k b ə t ˈoː h $Gb perf. 3fd. 
+r ˈa k i b uː , r ˈa k ə b w , r ˈeː k ə b ə w , r ˈə k b ə m $Gb perf. 3mp. *-ū assumed upon consultation. TODO CONSIDER change to tonic ˈɘ Late PSAM? 
+r ˈa k i b uː , r ˈa k ə b w , r ˈeː k ə b ə w , r ˈiː k ə b $Roey 2025 ~ ride.3mp.G.SC -- Roey oct 2025 claims this would be syncretic, but -əm is secondarily added.  
+r ˈa k i b n a , >* , r ˈeː k b n , r ˈə k b ə n $Gb perf. 1cp. TODO CONSIDER change to tonic ˈɘ Late PSAM? 
+r ˈa k i b k u , r ˈa k ə b k w , >* , r ˈə k b ə k $Gb perf. 1cs. *-ku assumed for PWS upon consultation
+r ˈa k i b k i , r ˈa k ə b k j , >* , r ˈə k b ə k $Gb perf. 1cd. *-ki assumed for PWS upon consultation
+r a k i b ˈa j , >* , r ə k b ˈoː , r ə k b ˈoː h $Gb perf. 3md
+r a k i b a t ˈa j , >* , r ə k b ə t oː , r ə k b ə t ˈoː h $Gb perf. 3fd. 
 
-t i b ɡ ˈa d , >* , >* , t ə b ɡ ˈoː d $G pass subj/imperf. 1cs, 1cp, 2ms, 3ms, 3fs
-t i b ɡ ˈa d j , >* , >* , t ə b ɡ ˈa j d i $G pass subj/imperf. 2fs
-t i b ɡ ˈa d w , >* , >* , t ə b ɡ ˈiː d $G pass subj/imperf. 2mp, 3mp 
-t i b ɡ ˈa d n a , >* , >* , t ə b ɡ ˈoː d ə n $G pass subj/imperf. 2fp, 3fp
-t i b ɡ a d ˈa j , >* , >* , t ə b ɡ ə d ˈoː h $G pass subj/imperf. 1cd, 2cd, 3md, 3fd 
+$tibgad- > tubgad throughout as it is *tupras -- this decision made upon consultation with CR. 
+t u b ɡ ˈa d , t i b ɡ ˈa d , >* , t ə b ɡ ˈoː d $G pass subj/imperf. 1cs, 1cp, 2ms, 3ms, 3fs
+t u b ɡ ˈa d iː , t i b ɡ ˈa d j , t ə b ɡ ˈæː d  , t ə b ɡ ˈa j d i $G pass subj/imperf. 2fs
+t u b ɡ ˈa d uː , t i b ɡ ˈa d w , t ə b ɡ ˈɒː d , t ə b ɡ ˈiː d $G pass subj/imperf. 2mp, 3mp 
+t u b ɡ ˈa d n a , t i b ɡ ˈa d n , t ə b ɡ ˈoː d n , t ə b ɡ ˈoː d ə n $G pass subj/imperf. 2fp, 3fp
+t u b ɡ a d ˈa j , >* , t ə b ɡ ə d ˈoː , t ə b ɡ ə d ˈoː h $G pass subj/imperf. 1cd, 2cd, 3md, 3fd 
 
 r ˈa k k i b , >* , >* , r ˈoː k ə b $H2. CV párris. 
-r a k k ˌi b ˈa t , >* , >* , a r k ə b ˈeː t $H2. perf 3fs. 
-r a k k ˌi b ˈa j , >* , >* , a r k ə b ˈeː h $H2. dauls. 
+r a k k ˌi b ˈa t , >* , a r k b ˈeː t , a r k ə b ˈeː t $H2. perf 3fs. 
+r a k k ˌi b ˈa j , >* , a r k b ˈeː , a r k ə b ˈeː h $H2. duals. 
 
-h a r k ˈa b a , >* , >* , h ə r k ˈuː b $H sterm perf. 3ms , 3fp
-$h i r k ˈu b a , >* , >* , h ə r k ˈuː b $H stem perf 3ms 3fp other ida
-h a r k a b ˈa t , >* , >* , h ə r k ə b ˈuː t $H stem perf. 3fs. 
-h a r k ˈa b u , >* , >* , h ə r k ˈiː b $H stem perf. 3mp
-h a r k a b ˈa j , >* , >* , h ə r k ə b ˈoː h $H stem perf. dual. 
+h a r k ˈa b a , >* , h ə r k ˈoː b , h ə r k ˈuː b $H stem perf. 3ms , 3fp
+h i r k ˈu b a , >* , h ə r k ˈoː b , h ə r k ˈuː b $H stem perf 3ms 3fp other idea
+h a r k a b ˈa t , >* , h ə r k ə b ˈoː t , h ə r k ə b ˈuː t $H stem perf. 3fs. 
+h a r k ˈa b uː , h ə r k ˈa b w , h ə r k ˈɒː b , h ə r k ˈiː b $H stem perf. 3mp. -ū assumed upon consultation
+h a r k a b ˈa j , h ə r k ə b ˈa j , h ə r k ə b ˈoː , h ə r k ə b ˈoː h $H stem perf. dual. 
 
 $ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 
 ... , j a r k ˈa b , j ə r k ˈoː b $ride.3ms.Gb.SPC. Jibbali : jərkɔb. 

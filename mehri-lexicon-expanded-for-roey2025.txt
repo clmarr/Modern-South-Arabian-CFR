@@ -289,12 +289,17 @@ $ Roey Oct 2025 writeup table 3
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈə ɡ f ə m $throw.3mp.Ga.LPC. Early PSAM -w assumed < -ū upon consultation. Testing possibility of syncretism instead below. 
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈuː ɡ ə f  $throw.3mp.Ga.LPC possibility of syncretism. 
 
-$ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.
-... , ʁ ˈa t ə b ə r , >* , ʁ ˈa t b ə r $meet.3ms, T1 SC. Late PSAM *a assumed. 
-... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r ə m $meet.3mp. T1 SC.  Late PSAM *a assumed.  Syncretic outcome possibility tested below. 
+$ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.Late PSAM *a assumed per  Dufour 2015: 4-5 . 
+... , ʁ ˈa t ə b ə r , >* , ʁ ˈa t b ə r $meet.3ms, T1 SC. 
+... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r ə m $meet.3mp. T1 SC.  Syncretic outcome possibility tested below. 
 ... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r $meet.3mp. T1 SC. See above. 
 
-$ Roey 
+$ Roey Oct '25 table 5 . PWS first syll a assumed per Dufour 2015: 4-5 .
+j a ʁ t ˈa b ə r , >* , >* , j ə ʁ t ˈiː b ə r $meet. 3ms, T1 SPC. 
+j a ʁ t ˈa b ə r uː , >* , >* , j ə ʁ t ˈə b r ə m $meet. 3ms, T1 SPC. Non-syncretic outcome. 
+j a ʁ t ˈa b ə r uː , >* , >* , j ə ʁ t ˈiː b ə r $meet. 3ms, T1 SPC. Syncretic possibility
+
+
 $ Roey Oct 2025 
 
 $ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 

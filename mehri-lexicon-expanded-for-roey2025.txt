@@ -254,7 +254,7 @@ t u b ɡ a d ˈa j , >* , t ə b ɡ ə d ˈeː , t ə b ɡ ə d ˈeː h $G pass 
 
 r ˈa k i b a , r ˈa k ə b , r ˈeː k ə b , r ˈiː k ə b $Gb perf. 3ms, 3fb. Roey 2025 for proto-MSA ~ ride.3ms.G.SC.
 r a k i b ˈa t , >* , r ə k ə b ˈoː t , r ə k b ˈoː t $Gb perf. 3fs
-r ˈa k i b uː , r ˈa k ə b w , r ˈeː k ə b ə w , r ˈə k b ə m $Gb perf. 3mp. *-ū assumed upon consultation. TODO CONSIDER change to tonic ˈɘ Late PSAM? 
+r ˈa k i b uː , r ˈa k ə b w , r ˈeː k ə b ə w , r ˈə k b ə m $Gb perf. 3mp. *-ū assumed upon consultation. TODO CONSIDER change to tonic ˈɘ Late PSAM? AlsoRoey Oct 2025 table 2 
 r ˈa k i b uː , r ˈa k ə b w , r ˈeː k ə b ə w , r ˈiː k ə b $Roey 2025 ~ ride.3mp.G.SC -- Roey oct 2025 claims this would be syncretic, but -əm is secondarily added.  
 r ˈa k i b n a , >* , r ˈeː k b n , r ˈə k b ə n $Gb perf. 1cp. TODO CONSIDER change to tonic ˈɘ Late PSAM? 
 r ˈa k i b k u , r ˈa k ə b k w , >* , r ˈə k b ə k $Gb perf. 1cs. *-ku assumed for PWS upon consultation
@@ -279,8 +279,10 @@ h a r k a b ˈa t , >* , h ə r k ə b ˈoː t , h ə r k ə b ˈuː t $H stem p
 h a r k ˈa b uː , h ə r k ˈa b w , h ə r k ˈɒː b , h ə r k ˈiː b $H stem perf. 3mp. -ū assumed upon consultation
 h a r k a b ˈa j , h ə r k ə b ˈa j , h ə r k ə b ˈoː , h ə r k ə b ˈoː h $H stem perf. dual. 
 
+$ Roey Oct 2025 writeup table 1 
+j i r k ˈa b , >* , >* , j ə r k ˈoː b $ride.3ms.Gb.SPC. Jibbali : jərkɔb. See below. 
+j i r k ˈa b uː , >* , j ə r k ˈɒː b , j ə r k ˈiː b $ride.3mp.Gb.SPC. Jibbali: jərkeb. UNclear if Roey means first syll -i- or -a- at this stage. *jarkabu tested below. 
+
+$ Roey Oct 2025 writeup table 3 
+... , j ə n ˈa ɡ ɡ ə p ,>* , j ə n ˈuː ɡ ə f $throw.3ms.Ga.LPC *jəpárrəs type; cf. jəkʼ ˈɔdər (diff verb) for Jibbali)
 $ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 
-... , j a r k ˈa b , j ə r k ˈoː b $ride.3ms.Gb.SPC. Jibbali : jərkɔb. 
-... , j i r k ˈa b uː , j ə r k ˈiː b $ride.3mp.Gb.SPC. Jibbali: jərkeb. UNclear if Roey means first syll -i- or -a- at this stage. *jarkabu tested below. 
-... , j a r k ˈa b u , j ə r k ˈiː b $ride.3mp.Gb.SPC. see above.  
-... , j ə n ˈa ɡ ɡ ə p , j ə n ˈuː ɡ ə f $throw.3ms.Ga.LPC *jəpárrəs type; cf. jəkʼ ˈɔdər (diff verb) for Jibbali)

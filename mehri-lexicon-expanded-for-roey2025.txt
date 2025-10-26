@@ -284,22 +284,29 @@ j i r k ˈa b , >* , >* , j ə r k ˈoː b $ride.3ms.Gb.SPC. Jibbali : jərkɔb.
 j i r k ˈa b uː , >* , j ə r k ˈɒː b , j ə r k ˈiː b $ride.3mp.Gb.SPC. Jibbali: jərkeb. UNclear if Roey means first syll -i- or -a- at this stage.  Possibility of syncretism instead tested below. 
 j i r k ˈa b uː , >* , >* , j ə r k ˈoː b $3mp/3ms syncretism possibility for ride.3m.Gb.SPC. See above .
 
-$ Roey Oct 2025 writeup table 3 
-... , j ə n ˈa ɡ ɡ ə p ,>* , j ə n ˈuː ɡ ə f $throw.3ms.Ga.LPC *jəpárrəs type; cf. jəkʼ ˈɔdər (diff verb) for Jibbali)
+$ Roey Oct 2025 writeup table 3 . cf. jəkʼ ˈɔdər (diff verb) for Jibbali; Soqotri jekˈodem. 
+... , j ə n ˈa ɡ ɡ ə p ,>* , j ə n ˈuː ɡ ə f $throw.3ms.Ga.LPC *jəpárrəs type; 
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈə ɡ f ə m $throw.3mp.Ga.LPC. Early PSAM -w assumed < -ū upon consultation. Testing possibility of syncretism instead below. 
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈuː ɡ ə f  $throw.3mp.Ga.LPC possibility of syncretism. 
 
-$ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.Late PSAM *a assumed per  Dufour 2015: 4-5 . 
+$ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.Late PSAM *a assumed per  Dufour 2015: 4-5 . (Jibbali fˈɔtkər for both, diff verb; Soqotri ɬotˈenəz)
 ... , ʁ ˈa t ə b ə r , >* , ʁ ˈa t b ə r $meet.3ms, T1 SC. 
 ... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r ə m $meet.3mp. T1 SC.  Syncretic outcome possibility tested below. 
 ... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r $meet.3mp. T1 SC. See above. 
 
-$ Roey Oct '25 table 5 . PWS first syll a assumed per Dufour 2015: 4-5 .
+$ Roey Oct '25 table 5 . PWS first syll a assumed per Dufour 2015: 4-5 .(Jibbali jəftˈekər for both, diff verb; Soqotri ʎiɬtˈen(ɛ/e)z -- ɛ sg e pl)
 j a ʁ t ˈa b ə r , >* , >* , j ə ʁ t ˈiː b ə r $meet. 3ms, T1 SPC. 
 j a ʁ t ˈa b ə r uː , >* , >* , j ə ʁ t ˈə b r ə m $meet. 3ms, T1 SPC. Non-syncretic outcome. 
 j a ʁ t ˈa b ə r uː , >* , >* , j ə ʁ t ˈiː b ə r $meet. 3ms, T1 SPC. Syncretic possibility
 
 
-$ Roey Oct 2025 
+$ Roey Oct 2025 table 6. 
+j a h ˈa r k ə b , >* , >* , j ə h ˈa r k ə b $mount, race well, h1  3ms. Jibbali 'cook/run out' jɛbʃəl. 
+j a h ˈa r k ə b uː , >* , >* , j ə h ˈa r k ə b $mount, race well, h1  3mp, syncretic outcome. Jibbali ˈjɔb∫əl 'cook'
+j a h ˈa r k ə b uː , >* , >* , j ə h ˈa r k ə b ə m $mount, race well, h1  3mp, non syncretic outcome. Jibbali ˈjɔb∫əl 'cook' 
+j a ʃ ˈa r k ə b , >* , >* , j ə ʃ ˈa r k ə b $mount, race well, š1  3ms. Jibballi 'cook/runout' jəˈɕʷɛkʼsʼər.
+j a ʃ ˈa r k ə b uː , >* , >* , j ə ʃ ˈa r k ə b $mount, race well, h1  3mp, syncretic outcome. Jibbali jəˈɕʷɔkʼsʼər 'cook' 
+j a ʃ ˈa r k ə b uː , >* , >* , j ə ʃ ˈa r k ə b ə m $mount, race well, h1  3mp, non syncretic outcome. Jibbali jəˈɕʷɔkʼsʼər 'cook' 
+
 
 $ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 

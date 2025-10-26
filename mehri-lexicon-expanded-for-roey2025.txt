@@ -289,6 +289,8 @@ $ Roey Oct 2025 writeup table 3 . cf. jəkʼ ˈɔdər (diff verb) for Jibbali; S
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈə ɡ f ə m $throw.3mp.Ga.LPC. Early PSAM -w assumed < -ū upon consultation. Testing possibility of syncretism instead below. 
 ... , j ə n ˈa ɡ ɡ ə p w , >* , j ə n ˈuː ɡ ə f  $throw.3mp.Ga.LPC possibility of syncretism. 
 
+$Roey 
+
 $ Roey Oct 2025 writeup table 4 -- *pVt(ə)rəs forms.Late PSAM *a assumed per  Dufour 2015: 4-5 . (Jibbali fˈɔtkər for both, diff verb; Soqotri ɬotˈenəz)
 ... , ʁ ˈa t ə b ə r , >* , ʁ ˈa t b ə r $meet.3ms, T1 SC. 
 ... , ʁ ˈa t ə b ə r w , >* , ʁ ˈa t b ə r ə m $meet.3mp. T1 SC.  Syncretic outcome possibility tested below. 
@@ -323,6 +325,19 @@ s t a n ˈaː s ə m uː , >* , >* , ʃ n ˈa s m ə m $s2 sc 3mp. syncretic
 j a s t a n ˈaː s ə m , >* , >* , j ə ʃ n ˈeː s ə m $s2 spc 3ms
 j a s t a n ˈaː s ə m uː , >* , >* , j ə ʃ n ˈeː s ə m $s2 spc 3mp. nonsyncretic
 j a s t a n ˈaː s ə m uː , >* , >* , j ə ʃ n ˈa s m ə m $s2 spc 3mp. syncretic
+
+$ Roey 10/2025 table 9 h_q sc and spc *(jV)sapársəs forms, "to grope" for Mehri
+s a d a m d ə m , >* , >* , a d ˈa m d ə m $hq sc 3ms 
+s a d a m d ə m uː , >* , >* , a d ˈa m d ə m $hq sc 3mp syncretic
+s a d a m d ə m uː , >* , >* , a d ˈa m d ə m ə m $hq sc 3mp nonsyncretic
+j a s a d a m d ə m , >* , >* , j a d ˈa m d ə m $hq spc 3ms 
+j a s a d a m d ə m uː , >* , >* , j a d ˈa m d ə m $hq spc 3mp syncretic
+j a s a d a m d ə m uː , >* , >* , j a d ˈa m d ə m ə m $hq spc 3mp nonsyncretic
+
+$ Roey 10/2025 table 10 nq spc *i (??) per Dufour 2015 :5 . Mehri verb "to be curled". 
+j i n a kʼ aː r b ə tʼ , >* , >* , j ə n kʼ ˈa r b ə tʼ $nq spc 3ms
+j i n a kʼ aː r b ə tʼ uː , >* , >* , j ə n kʼ ˈa r b ə tʼ $nq spc 3mp syncretic
+j i n a kʼ aː r b ə tʼ uː , >* , >* , j ə n kʼ ˈa r b ə tʼ ə m $nq spc 3mp non syncretic
 
 
 

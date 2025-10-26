@@ -1,4 +1,5 @@
-$ancestral form,Mehri
+$=ancestral form,Mehri
+$Roey March 2025 lexicon
 b a ɡ ˈa d a , b ə ɡ ˈuː d $Ga perf. 3ms/3fp. 
 b a ɡ a d ˈa t , b ə ɡ ə d ˈuː t $ Ga perf. 3fs.
 b a ɡ ˈa d u , b ə ɡ ˈa w d $Ga perf. 3mp. 

@@ -207,10 +207,10 @@ m i n a , m ə n $from. OG set from AaJ.
 
 
 $=Proto-West-Semitic,Early Proto-SAM,Mehri
-$Roey March 2025 lexicon. Having oː for "ô" ; ɒ for "å", eː for "ê" ɘ for "ě". is ě the same as æ
+$Roey March 2025 lexicon. Having oː for "ô" ; ɒː for "å", eː for "ê" ɘ for "ě". is ě the same as æ? Or not ː æː for "æ"
 b a ɡ ˈa d a , b ə ɡ ˈa d , b ə ɡ ˈoː d , b ə ɡ ˈuː d $Ga perf. 3ms/3fp. Roey March 2025: bagáda → bəgád → bəgôd  → . 
 b a ɡ a d ˈa t , b ə ɡ ə d ˈa t , b ə ɡ ə d ˈoː t , b ə ɡ ə d ˈuː t $ Ga perf. 3fs. bagad-át → bəgədát → bəgədôt →
-b a ɡ ˈa d u , b ə ɡ ˈa d u , b ə ɡ ˈɒ d , b ə ɡ ˈa w d $Ga perf. 3mp. 
+b a ɡ ˈa d u , b ə ɡ ˈa d u , b ə ɡ ˈɒː d , b ə ɡ ˈa w d $Ga perf. 3mp. 
 b a ɡ ˈa d n a , b ə ɡ ˈa d n a , b ə ɡ ˈoː d n , b ə ɡ ˈuː d ə n $Ga perf. 1cp. 
 b a ɡ ˈa d k u , >* , b ə ɡ ˈɘ d k , b ə ɡ ˈə d k $Ga perf. 1cs. 
 b a ɡ ˈa d k j , >* , b ə ɡ ˈɘ d k , b ə g ˈə d k $Ga perf. 1cd. 
@@ -229,28 +229,31 @@ t i b ˈa ɡ ɡ u d n a , >* , t ə b ˈɘ ɡ ɡ d ə w , t ə b ˈə ɡ d ə n 
 t i b a ɡ ɡ u d ˈa j , >* , t ə b ə ɡ ɡ d ˈoː , t ə b ə ɡ d ˈoː h $Ga Impf. 1cd, 2cd, 3md, 3fd 
 
 b aː ɡ i d ˈaː n ə , >* , >* , b ə ɡ d ˈoː n a $G Part. ms
-b aː ɡ i d ˈa j t ə , >* , >* , b ə ɡ d ˈiː t a $G Part. fs
-b aː ɡ i d ˈaː n j , >* , >* , b ə ɡ d ˈoː n i $G Part. md
-b aː ɡ i d ˈaː t j , >* , >* , b ə ɡ d ˈa w t i $G Part. fd
-b ə ɡ ɡ ˈaː d ə , >* , >* , b ə g j ˈeː d a $G Part mp
-b aː ɡ i d ˈaː t ə n , >* , >* , b ə ɡ d ˈuː t ə n $G part fp 
+b aː ɡ i d ˈa j t ə , >* , b a ɡ ə d ˈeː t ə , b ə ɡ d ˈiː t a $G Part. fs
+b aː ɡ i d ˈaː n j , >* , b a ɡ ə d ˈa n j , b ə ɡ d ˈoː n i $G Part. md
+b aː ɡ i d ˈaː t j , >* , b a ɡ ə d ˈɒː t j , b ə ɡ d ˈa w t i $G Part. fd
+b ə ɡ ɡ ˈaː d ə , >* , b ə ɡ ɡ ˈeː d ə , b ə g j ˈeː d a $G Part mp
+b aː ɡ i d ˈaː t ə n , >* , b a ɡ ə d ˈoː t ə n , b ə ɡ d ˈuː t ə n $G part fp 
 
-b u ɡ ˈi d a , >* , >* , k t ˈeː b$G pass perf. 3ms, 3fp. 
-b u ɡ ˌi d ˈaː t , >* , >* , b ə ɡ d ˈeː t $G pass perf. 3fs
-$3mp -- defective but would be bugidw > bgedem?
-b u ɡ i d k u , >* , >* , k t ˈa b k $G pass perf. 1cs. 
-b u ɡ i d k j , >* , >* , k t ˈa b k $G pass perf. 1cd. 
+b u ɡ ˈi d a , >* , b ə ɡ ˈɘ d , k t ˈeː b $G pass perf. 3ms, 3fp. 
+b u ɡ ˌi d ˈaː t , >* , b ə ɡ ə d ˈa t , b ə ɡ d ˈeː t $G pass perf. 3fs
+$3mp -- defective but would be bugidw > bgědem?
+b u ɡ ˈi d k u , >* , b ə ɡ ˈɘ d k w , k t ˈa b k $G pass perf. 1cs. Likewise for 2(??) in -kum 
+b u ɡ ˈi d k j , >* , b ə ɡ ˈɘ d k j , k t ˈa b k $G pass perf. 1cd. Likewise for 2 , -ki, -kj?, -kin),
+b u ɡ ˈi d k a , >* , b ə ɡ ˈɘ d k ə , k t ˈa b k $G pass perf. 2 (??) in -ka. 
 b u ɡ i d ˈa j , >* , >* , b ə ɡ ə d ˈoː h $G pass perf. 3md
+b u ɡ i d ˈa j , >* , b ə ɡ ə d ˈeː , b ə ɡ ə d ˈeː h $G pass perf. 3md. listed as -ēh in Roey's March 2025 file?? TODO is this an error? 
 b u ɡ i d a t ˈa j , >* , >* , b ə ɡ ə d t ˈoː h $G pass perf. 3fd
+b u ɡ i d a t ˈa j , >* , b ə ɡ ə d t ˈeː , b ə ɡ ə d t ˈoː h $G pass perf. 3fd. listed as -ēh in Roey's March 2025 file?? TODO is this an error? 
 
-t u b ɡ ˈa d , >* , >* , t ə b ɡ ˈoː d $G pass subj imperf. 1cs, 1cp, 2ms, 3ms, 3fs
-t u b ɡ ˈa d j , >* , >* , t ə b ɡ ˈa j d i  $G pass subj imperf. 2fs 
-t u b ɡ ˈa d w , >* , >* , t ə b ɡ ˈiː d $G pass subj imperf. 2mp, 3mp
-t u b ɡ ˈa d n a , >* , >* , t ə b ɡ ˈoː d ə n $G pass subj imperf. 2fp, 3fp
-t u b ɡ a d ˈa j , >* , >* , t ə b ɡ ə d ˈeː h $G pass subj imperf. 1cd, 2cd, 3md, 3fd
+t u b ɡ ˈa d , >* , t ə b ɡ ˈoː d , t ə b ɡ ˈoː d $G pass subj imperf. 1cs, 1cp, 2ms, 3ms, 3fs
+t u b ɡ ˈa d j , >* , t ə b ɡ ˈæː d , t ə b ɡ ˈa j d i  $G pass subj imperf. 2fs 
+t u b ɡ ˈa d w , >* , t ə b ɡ ˈɒː d , t ə b ɡ ˈiː d $G pass subj imperf. 2mp, 3mp
+t u b ɡ ˈa d n a , >* , t ə b ɡ ˈoː d n , t ə b ɡ ˈoː d ə n $G pass subj imperf. 2fp, 3fp
+t u b ɡ a d ˈa j , >* , t ə b ɡ ə d ˈeː , t ə b ɡ ə d ˈeː h $G pass subj imperf. 1cd, 2cd, 3md, 3fd
 
-r ˈa k i b a , r ˈa k ə b , r ˈiː k ə b $Gb perf. 3ms, 3fb. Roey 2025 for proto-MSA ~ ride.3ms.G.SC.
-r a k i b ˈa t , >* , >* , r ə k b ˈoː t $Gb perf. 3fs
+r ˈa k i b a , r ˈa k ə b , r ˈeː k ə b , r ˈiː k ə b $Gb perf. 3ms, 3fb. Roey 2025 for proto-MSA ~ ride.3ms.G.SC.
+r a k i b ˈa t , >* , r ə k ə b ˈoː t , r ə k b ˈoː t $Gb perf. 3fs
 r ˈa k i b u , >* , >* , r ˈə k b ə m $Gb perf. 3mp
 r ˈa k i b u , >* , >* , r ˈiː k ə b $Roey 2025 ~ ride.3mp.G.SC -- Roey oct 2025 claims this would be syncretic, but -əm is secondarily added.  
 r ˈa k i b n a , >* , >* , r ˈə k b ə n $Gb perf. 1cp

@@ -369,19 +369,19 @@ h ə r b ˈa ʕ , h ə r b ˈa ʕ , >* , h ə r b ˈa ʔ $lift.3ms.SC #FinalPhar
 h ə r b ˈa ʕ uː , h ə r b ˈa ʕ w , >* , h ə r b ˈaː m $lift.3mp.SC #FinalPharyngeal
 j a h ə r a b b ˈa ʕ , j a h ə r ˈa b b ə ʕ , >* , j ə h ə r ˈoː b a $lift.3ms.LPC #FinalPharygeal . TODO CHECK THIS FORM. OG CODED with Proto-SAM jahərˈabbəʕuː
 j a h ə r a b b ˈa ʕ uː , j a h ə r ˈa b b ə ʕ w , >* , j ə h ə r ˈa b a m $lift.3mp.LPC #FinalPharygeal
-nakˈaʕ,nˈakəʕ,nˈuːka $come.3ms.SC #FinalPharygeal
-nakˈaʕuː,nˈakəʕuː,nˈakəʕw,nˈakam $come.3mp.SC #FinalPharygeal
-jaɬnˈaj,jˈaɬnəj,jəɬnɛʔ $see.3ms.SPC #finalgalde
-jaɬnˈajuː,jˈaɬnəjuː,jəɬnɛːm $see.3mp.SPC #finalgalde
-jaɬannˈaj,jaɬˈannəj,jəɬˈoːni   $see.3ms.LPC #finalgalde
-jaɬannˈajuː,jaɬˈannəjuː,jəˈɬanjəm $see.3mp.LPC #finalgalde
-mˈawət,>*,moːt    $die.3ms.SC $middleW
-mˈawətuː,>*,moːtəm     $die.3mp.SC $middleW
-ɬˈaʔəm,>*,ɬoːm $sell.3ms.SC #middleGlott
-ɬˈaʔəmuː,>*,ɬoːməm $sell.3mp.SC #middleGlott
-dˈaləl,>*,dəll $show.3ms.SC #Gemminate
-dˈaləluː,>*,dəlləm $show.3mp.SC #Gemminate
-...,həbdəd,abdiːd $separate.3ms.SC
+n a k ˈa ʕ , >* , n ˈa k ə ʕ , n ˈuː k a $come.3ms.SC #FinalPharygeal
+n a k ˈa ʕ uː , >* , n ˈa k ə ʕ w , n ˈa k a m $come.3mp.SC #FinalPharygeal
+j a ɬ n ˈa j , j ˈa ɬ n ə j , >* , j ə ɬ n ˈɛ ʔ $see.3ms.SPC #finalgalde. TODO CHECK STRESS PLACEMENT. 
+j a ɬ n ˈa j uː , j ˈa ɬ n ə j w , >* , j ə ɬ n ˈɛː m $see.3mp.SPC #finalgalde. TODO CHECK STRESS PLACEMENT. 
+j a ɬ a n n ˈa j , j a ɬ ˈa n n ə j , >* , j ə ɬ ˈoː n i $see.3ms.LPC #finalgalde
+j a ɬ a n n ˈa j uː , j a ɬ ˈa n n ə j w , >* , j ə ɬ ˈa n j ə m $see.3mp.LPC #finalgalde
+m ˈa w ə t , >* , >* , m ˈoː t $die.3ms.SC $middleW
+m ˈa w ə t uː , >* , >* , m ˈoː t ə m $die.3mp.SC $middleW
+ɬ ˈa ʔ ə m , >* , >* , ɬ ˈoː m $sell.3ms.SC #middleGlott
+ɬ ˈa ʔ ə m uː , >* , >* , ɬ ˈoː m ə m $sell.3mp.SC #middleGlott
+d ˈa l ə l , >* , >* , d ˈə l l $show.3ms.SC #Gemminate
+d ˈa l ə l uː , >* , >* , d ˈə l l ə m $show.3mp.SC #Gemminate
+...,həbdəd,abdiːd $separate.3ms.SC. TODO CHECK STRESS PLACEMNET FOR THESE AND THE BELOW.
 ...,həbdəduː,abdiːdəm $separate.3mp.SC
 ...,jahəbdəd,jabdiːd $separate.3ms.SPC
 ...,jahəbdəduː,jabdiːdəm $separate.3mp.SPC

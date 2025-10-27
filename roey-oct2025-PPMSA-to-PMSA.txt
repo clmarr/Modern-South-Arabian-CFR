@@ -1,10 +1,15 @@
+~Proto-West-Semitic
+
+~Early Proto-SAM 
 $ Roey.oct2025.I : a > 0 / __ ] w
 $ TODO does he mean only unstressed a tho?
 $ TODO is ] = morpheme boundary? 
 [+lo,+syl] > ∅ / __ w
 
 $ Roey.oct2025.II : a > ə / __ guttural 
-$ TODO does he mean only unstressed a tho?
+$ TODO guttural = +back,-high,+cons?
+$ TODO does he mean only unstressed a tho maybe ?
+[+lo,+syl] > [-lo,-front,-back,0tense] / __ [+back,-hi,+cons] 
 
 $ Roey.oct2025.III : a > [+stress]  / last /a/ i the word 
 [+lo,+syl] > [+prim] / __ (([-syl])* [+syl,lo])* ([-syl])* #
@@ -12,10 +17,16 @@ $ Roey.oct2025.III : a > [+stress]  / last /a/ i the word
 $ Roey.oct2025.IV : V[-low] > [+stress] / last vowel in the word and there's no a in the word
 [+syl,-lo] > [+prim] / # ([-syl])* ([-lo,+syl] ([-syl])*)*  __ ([-syl])*
 
-$TODO stress loss in earlier syllables after these? 
+$Bandaid: stress loss in earlier syllables after these? 
+$TODO or is this unintended? 
+[+prim] > [-stres] / __ ([-stres])* [+prim]
 
 $Roey.oct2025.V : a > e / __ ] s 
 [+lo,+syl] > [-lo,+front,-back] / __ s
 
 $Roey.oct2025.VI : a -> o / _C]w 
 $ TODO additional contexts for the above? "/ _[+stres]C[+long] ;  / _Cə]s
+
+~Late Proto-SAM 
+
+

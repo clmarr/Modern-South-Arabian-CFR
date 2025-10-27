@@ -1,6 +1,8 @@
 ~Proto-West-Semitic
 
 ~Early Proto-SAM 
+
+$TODO COMBINE WITH RULES FOR OTHER STAGES AND PARTS OF THE PHONOLOGICAL SYSTEM IF INTEND TO RUN THIS.
 $ Roey.oct2025.I : a > 0 / __ ] w
 $ TODO does he mean only unstressed a tho?
 $ TODO is ] = morpheme boundary? 

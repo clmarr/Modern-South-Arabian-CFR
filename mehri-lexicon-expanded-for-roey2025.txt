@@ -349,4 +349,39 @@ $ Roey 10/2025 table 12 ga passive sc with 'write' (Jib kitˈib for all forms) -
 ... , k ə t ə b w , >* , k t ˈeː b ə m $3mp ga passive sc nonsyncretic
 
 
-$ ----- ITEMS FROM Roey Schneider review paper 10/26/25 follow. TODO INTEGRATE INTO ABOVE AS APPROPRIATE. FIRST FORMS MAY BE PROTO-MSA 
+$ ----- below added by Connor Rouiller : 
+https://www.dpwa.gwi.uni-muenchen.de/dictionary/?lemmaid=20144
+i b t a d d ˈa ʔ , i b t a d d ˈa j , >* , ə b t ˈoː d i $begin.3ms.T2.SC. $GLOTTAL
+i b t a d d ˈa ʔ uː , i b t a d d ˈa j w , >* , ə b t ˈa d i $begin.3mp.T2.SC, syncretic. $The intermediate forms here are Connor's hypotheses GLOTTAL
+i b t a d d ˈa ʔ uː , i b t a d d ˈa j w , >* , ə b t ˈa d j ə m $begin.3mp.T2.SC. $The intermediate forms here are Connor's hypotheses GLOTTAL
+j a b t a d d ˈa ʔ , j i b t a d d ˈa j , >* , j ə b t ˈoː d i $begin.3ms.T2.SPC. $GLOTTAL
+j a b t a d d ˈa ʔ uː , j i b t a d d ˈa j w , >* , j ə b t ˈoː d i $begin.3mp.T2.SPC syncretic. $The intermediate forms here are Connor's hypotheses GLOTTAL
+j a b t a d d ˈa ʔ uː , j i b t a d d ˈa j w , >* , j ə b t ˈoː d j ə m $begin.3mp.T2.SPC. $The intermediate forms here are Connor's hypotheses GLOTTAL
+i m t a d d ˈa ħ , >*, >* , ə m t ˈoː d ə ħ $ boast.3ms.T2.SC. $final GUTTURAL
+i m t a d d ˈa ħ uː , i m t a d d ˈa ħ w , >* , ə m t ˈoː d ə ħ $ boast.3mp.T2.SC. $final GUTTURAL
+j a m t a d d ˈa ħ , >* , >* , j ə m t ˈoː d ə ħ $ boast.3ms.T2.SPC. $final GUTTURAL
+j a m t a d d ˈa ħ uː , i m t a d d ˈa ħ w , >* , ə m t ˈoː d ə ħ $ boast.3mp.T2.SPC. $final GUTTURAL
+j a r t a kʼ kʼ ˈa j , >* , >* , j ə r t ˈu kʼ i $ read.3ms.T1.LPC. $final Glide
+j a r t a kʼ kʼ ˈa j uː , j i r t a kʼ kʼ ˈa j w , >* , j ə r t ˈə kʼ j ə m $ read.3mp.T1.LPC. $final Glide
+j a r t a p p ˈa ʕ , >* , >* , j ə r t ˈuː f a $to-be-lifted.3ms,T1.LPC $Final pharyngeal 
+j a r t a p p ˈa ʕ uː , j a r t a f f ˈa ʕ w , >* , j ə r t ˈa f a m $to-be-lifted.3mp,T1.LPC $Final pharyngeal
+h ə r b ˈa ʕ , h ə r b ˈa ʕ , >* , h ə r b ˈa ʔ $lift.3ms.SC #FinalPharyngeal
+h ə r b ˈa ʕ uː , h ə r b ˈa ʕ w , >* , h ə r b ˈaː m $lift.3mp.SC #FinalPharyngeal
+j a h ə r a b b ˈa ʕ , j a h ə r ˈa b b ə ʕ , >* , j ə h ə r ˈoː b a $lift.3ms.LPC #FinalPharygeal . TODO CHECK THIS FORM. OG CODED with Proto-SAM jahərˈabbəʕuː
+j a h ə r a b b ˈa ʕ uː , j a h ə r ˈa b b ə ʕ w , >* , j ə h ə r ˈa b a m $lift.3mp.LPC #FinalPharygeal
+nakˈaʕ,nˈakəʕ,nˈuːka $come.3ms.SC #FinalPharygeal
+nakˈaʕuː,nˈakəʕuː,nˈakəʕw,nˈakam $come.3mp.SC #FinalPharygeal
+jaɬnˈaj,jˈaɬnəj,jəɬnɛʔ $see.3ms.SPC #finalgalde
+jaɬnˈajuː,jˈaɬnəjuː,jəɬnɛːm $see.3mp.SPC #finalgalde
+jaɬannˈaj,jaɬˈannəj,jəɬˈoːni   $see.3ms.LPC #finalgalde
+jaɬannˈajuː,jaɬˈannəjuː,jəˈɬanjəm $see.3mp.LPC #finalgalde
+mˈawət,>*,moːt    $die.3ms.SC $middleW
+mˈawətuː,>*,moːtəm     $die.3mp.SC $middleW
+ɬˈaʔəm,>*,ɬoːm $sell.3ms.SC #middleGlott
+ɬˈaʔəmuː,>*,ɬoːməm $sell.3mp.SC #middleGlott
+dˈaləl,>*,dəll $show.3ms.SC #Gemminate
+dˈaləluː,>*,dəlləm $show.3mp.SC #Gemminate
+...,həbdəd,abdiːd $separate.3ms.SC
+...,həbdəduː,abdiːdəm $separate.3mp.SC
+...,jahəbdəd,jabdiːd $separate.3ms.SPC
+...,jahəbdəduː,jabdiːdəm $separate.3mp.SPC
